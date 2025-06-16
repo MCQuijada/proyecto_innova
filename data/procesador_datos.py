@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 import re
 
 class ProcesadorDatos:
@@ -75,6 +74,13 @@ class ProcesadorDatos:
             }
 
             def normalizar_variant(variant):
+                """
+                Normaliza las variantes para que sean consistentes con las equivalencias definidas.
+                Args:
+                    variant (str): Variante a normalizar
+                Returns:
+                    set: Conjunto de variantes normalizadas
+                """
                 if pd.isna(variant):
                     return set()
                 # Dividir por ; o paréntesis, y limpiar espacios
@@ -89,9 +95,15 @@ class ProcesadorDatos:
                 return resultado
 
             def detectar_genotipos(row):
+                """
+                Detecta los genotipos posibles para una fila dada.
+                Args:
+                    row (pd.Series): Fila del DataFrame
+                Returns:
+                    list: Lista de genotipos detectados
+                """
                 variantes = normalizar_variant(row['Variant'])
                 genotipos_detectados = []
-
                 # Detección general para todas las combinaciones
                 for comb, genotipo in todas_las_combinaciones.items():
                     if variantes.issuperset(comb):
@@ -225,7 +237,7 @@ class ProcesadorDatos:
             print("Error: No hay datos procesados para expandir genotipos")
             return None
         import pandas as pd
-        # import re # re no es necesario aquí
+
         df = self.datos_procesados.copy()
         
         # Asegura que la columna 'genotipo' sea una lista (incluso vacía)
@@ -247,4 +259,140 @@ class ProcesadorDatos:
         if 'genotipo' in df_exp.columns:
             df_exp = df_exp.drop(columns=['genotipo'])
             
-        return df_exp 
+        # Actualizar datos_procesados con el DataFrame expandido
+        self.datos_procesados = df_exp
+        
+        return df_exp
+
+    def crear_columna_evaluacion(self):
+        """
+        Crea la columna Evaluacion basada en las categorías y genotipos para CYP2D6 y CYP2C19.
+        Returns:
+            tuple: (DataFrame CYP2D6, DataFrame CYP2C19) con la columna Evaluacion agregada
+        """
+        if self.datos_procesados is None:
+            print("Error: No hay datos procesados para crear evaluación")
+            return None, None
+
+        try:
+            # Definición de prioridades de categorías (común para todos los genes)
+            prioridad = ['Metabolism/PK', 'Efficacy', 'Dosage', 'Toxicity', 'Other']
+
+            def normalize_genotype_key(genotype_str):
+                if pd.isna(genotype_str):
+                    return None
+                genotype_str = str(genotype_str).strip()
+                # Normalizar espacios alrededor de '+' a un solo espacio
+                normalized = re.sub(r'\s*\+\s*', ' + ', genotype_str)
+                return normalized
+
+            def seleccionar_categoria(cat_str):
+                if pd.isna(cat_str):
+                    return None
+                cat_str = str(cat_str).strip()
+                normalized_cat_str = re.sub(r'\s*/\s*', '/', cat_str)
+                normalized_cat_str = re.sub(r'\s*,\s*', ',', normalized_cat_str)
+                
+                for p_cat in prioridad:
+                    if p_cat == normalized_cat_str:
+                        return p_cat
+                
+                if ',' in normalized_cat_str:
+                    parts = [p.strip() for p in normalized_cat_str.split(',') if p.strip()]
+                    for p_cat_priority in prioridad:
+                        if p_cat_priority in parts:
+                            return p_cat_priority
+                
+                return None
+
+            # --- Análisis para CYP2D6 ---
+            datos_cyp2d6 = None
+            if 'genes' in self.datos_procesados.columns:
+                datos_cyp2d6 = self.datos_procesados[(self.datos_procesados['genes'].str.upper() == 'CYP2D6')].copy()
+                eval_map_cyp2d6 = {
+                    ('Efficacy', 'G/G'): 'Intermedia',
+                    ('Efficacy', 'G/A'): 'Positiva',
+                    ('Efficacy', 'A/A'): 'Negativa',
+                    ('Dosage', 'G/G'): 'Intermedia',
+                    ('Dosage', 'G/A'): 'Positiva',
+                    ('Dosage', 'A/A'): 'Negativa',
+                    ('Toxicity', 'G/G'): 'Negativa',
+                    ('Toxicity', 'G/A'): 'Intermedia',
+                    ('Toxicity', 'A/A'): 'Positiva',
+                    ('Metabolism/PK', 'G/G'): 'Positiva',
+                    ('Metabolism/PK', 'G/A'): 'Intermedia',
+                    ('Metabolism/PK', 'A/A'): 'Negativa',
+                }
+                def asignar_evaluacion_cyp2d6(row):
+                    cat = seleccionar_categoria(row['phenotype_categories'])
+                    if cat == 'Other':
+                        return 'Intermedia'
+                    key = (cat, normalize_genotype_key(row['genotipo_expandido']))
+                    return eval_map_cyp2d6.get(key, None)
+                datos_cyp2d6['Evaluacion'] = datos_cyp2d6.apply(asignar_evaluacion_cyp2d6, axis=1)
+                # Filtrar filas donde Evaluacion no es None
+                datos_cyp2d6 = datos_cyp2d6[datos_cyp2d6['Evaluacion'].notna()]
+                datos_cyp2d6.to_csv('datos_CYP2D6.tsv', sep='\t', index=False)
+                print("\nArchivo generado: datos_CYP2D6.tsv (expandido por genotipo)")
+                print("\nResumen de Evaluaciones para CYP2D6:")
+                print(datos_cyp2d6['Evaluacion'].value_counts(dropna=False))
+            else:
+                print("Advertencia: No se encontró la columna 'genes' en los datos procesados para CYP2D6.")
+
+            # --- Análisis para CYP2C19 ---
+            datos_cyp2c19 = None
+            if 'genes' in self.datos_procesados.columns:
+                datos_cyp2c19 = self.datos_procesados[(self.datos_procesados['genes'].str.upper() == 'CYP2C19')].copy()
+                eval_map_cyp2c19 = {
+                    # Efficacy y Dosage
+                    ('Efficacy', 'G/G + C/C'): 'Intermedia',
+                    ('Efficacy', 'A/G + C/C'): 'Positiva',
+                    ('Efficacy', 'A/G + C/T'): 'Positiva',
+                    ('Efficacy', 'A/A + C/C'): 'Intermedia',
+                    ('Efficacy', 'G/G + T/T'): 'Negativa',
+                    ('Efficacy', 'G/G + C/T'): 'Negativa',
+                    
+                    ('Dosage', 'G/G + C/C'): 'Intermedia',
+                    ('Dosage', 'A/G + C/C'): 'Positiva',
+                    ('Dosage', 'A/G + C/T'): 'Positiva',
+                    ('Dosage', 'A/A + C/C'): 'Intermedia',
+                    ('Dosage', 'G/G + T/T'): 'Negativa',
+                    ('Dosage', 'G/G + C/T'): 'Negativa',
+
+                    # Toxicity
+                    ('Toxicity', 'G/G + C/C'): 'Negativa',
+                    ('Toxicity', 'A/G + C/C'): 'Negativa',
+                    ('Toxicity', 'A/G + C/T'): 'Negativa',
+                    ('Toxicity', 'A/A + C/C'): 'Intermedia',
+                    ('Toxicity', 'G/G + T/T'): 'Intermedia',
+                    ('Toxicity', 'G/G + C/T'): 'Intermedia',
+
+                    # Metabolism/Pk
+                    ('Metabolism/PK', 'G/G + C/C'): 'Positiva',
+                    ('Metabolism/PK', 'A/G + C/C'): 'Intermedia',
+                    ('Metabolism/PK', 'A/G + C/T'): 'Intermedia',
+                    ('Metabolism/PK', 'A/A + C/C'): 'Negativa',
+                    ('Metabolism/PK', 'G/G + T/T'): 'Positiva',
+                    ('Metabolism/PK', 'G/G + C/T'): 'Positiva',
+                }
+                def asignar_evaluacion_cyp2c19(row):
+                    cat = seleccionar_categoria(row['phenotype_categories'])
+                    if cat == 'Other':
+                        return 'Intermedia'
+                    key = (cat, normalize_genotype_key(row['genotipo_expandido']))
+                    return eval_map_cyp2c19.get(key, None)
+                datos_cyp2c19['Evaluacion'] = datos_cyp2c19.apply(asignar_evaluacion_cyp2c19, axis=1)
+                # Filtrar filas donde Evaluacion no es None
+                datos_cyp2c19 = datos_cyp2c19[datos_cyp2c19['Evaluacion'].notna()]
+                datos_cyp2c19.to_csv('datos_CYP2C19.tsv', sep='\t', index=False)
+                print("\nArchivo generado: datos_CYP2C19.tsv (expandido por genotipo)")
+                print("\nResumen de Evaluaciones para CYP2C19:")
+                print(datos_cyp2c19['Evaluacion'].value_counts(dropna=False))
+            else:
+                print("Advertencia: No se encontró la columna 'genes' en los datos procesados para CYP2C19.")
+
+            return datos_cyp2d6, datos_cyp2c19
+
+        except Exception as e:
+            print(f"Error al crear la columna Evaluacion: {str(e)}")
+            return None, None 
