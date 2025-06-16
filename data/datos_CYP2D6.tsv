@@ -1,0 +1,1183 @@
+variant	drugs	genes	p-value	phenotype_categories	genotipo_expandido	Evaluacion
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*20; CYP2D6*35; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.016	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*20; CYP2D6*35; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.016	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*20; CYP2D6*35; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.016	Efficacy	G/A	Positiva
+CYP2D6*4; CYP2D6*59	dextromethorphan	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.075	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.075	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.075	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10	amitriptyline	CYP2D6	= 0.002	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10	amitriptyline	CYP2D6	= 0.002	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10	amitriptyline	CYP2D6	= 0.002	Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*5; CYP2D6*6	carvedilol	CYP2D6	= 0.02	Dosage	A/A	Negativa
+CYP2D6*1; CYP2D6*4	risperidone	CYP2D6	= 0.049	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	risperidone	CYP2D6	= 0.049	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	risperidone	CYP2D6	= 0.049	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4	clomipramine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	clomipramine	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	clomipramine	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	carvedilol	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	carvedilol	CYP2D6	< 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	carvedilol	CYP2D6	< 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*41	risperidone	CYP2D6	= 0.026	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*41	risperidone	CYP2D6	= 0.026	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*41	risperidone	CYP2D6	= 0.026	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	olanzapine	CYP2D6	= 0.0097	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	olanzapine	CYP2D6	= 0.0097	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	olanzapine	CYP2D6	= 0.0097	Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	paroxetine	CYP2D6	= 0.037	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	paroxetine	CYP2D6	= 0.037	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	paroxetine	CYP2D6	= 0.037	Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*5; CYP2D6*6	carvedilol; metoprolol	CYP2D6	= 0.75	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.51	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.51	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.51	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	risperidone	CYP2D6	> 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	risperidone	CYP2D6	> 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	risperidone	CYP2D6	> 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4	oxycodone	CYP2D6	= 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4	oxycodone	CYP2D6	= 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4	oxycodone	CYP2D6	= 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4	clomipramine	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4	clomipramine	CYP2D6		Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4	clomipramine	CYP2D6		Toxicity	G/A	Intermedia
+CYP2D6*4	amitriptyline	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4	oxycodone	CYP2D6	= 0.8	Efficacy,Toxicity	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4	oxycodone	CYP2D6	= 0.8	Efficacy,Toxicity	G/G	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4	oxycodone	CYP2D6	= 0.8	Efficacy,Toxicity	G/A	Positiva
+CYP2D6*4		CYP2D6		Metabolism/PK	A/A	Negativa
+rs3892097	nevirapine	CYP2D6	= 0.39	Metabolism/PK,Toxicity	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*41	dextromethorphan	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*41	dextromethorphan	CYP2D6	< 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*41	dextromethorphan	CYP2D6	< 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	paroxetine	CYP2D6	= 0.2	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	paroxetine	CYP2D6	= 0.2	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	paroxetine	CYP2D6	= 0.2	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*41	venlafaxine	CYP2D6	< 0.002	Dosage	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*41	venlafaxine	CYP2D6	< 0.002	Dosage	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*41	venlafaxine	CYP2D6	< 0.002	Dosage	G/A	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*41	atomoxetine	CYP2D6	< 0.0001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*41	atomoxetine	CYP2D6	< 0.0001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*41	atomoxetine	CYP2D6	< 0.0001	Metabolism/PK	G/A	Intermedia
+CYP2D6*4		CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6	carvedilol	CYP2D6		Metabolism/PK,Other	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6	carvedilol	CYP2D6		Metabolism/PK,Other	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6	carvedilol	CYP2D6		Metabolism/PK,Other	G/A	Intermedia
+CYP2D6*4; CYP2D6*10	valproic acid	CYP2D6	= 0.067	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*6	oxycodone	CYP2D6	= 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*6	oxycodone	CYP2D6	= 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*6	oxycodone	CYP2D6	= 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*10x2; CYP2D6*21; CYP2D6*36; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.28	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*10x2; CYP2D6*21; CYP2D6*36; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.28	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*10x2; CYP2D6*21; CYP2D6*36; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.28	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*41	mephedrone	CYP2D6	= 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*41	mephedrone	CYP2D6	= 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*41	mephedrone	CYP2D6	= 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*41	tamsulosin	CYP2D6	< 0.05	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*41	tamsulosin	CYP2D6	< 0.05	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*41	tamsulosin	CYP2D6	< 0.05	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*35; CYP2D6*41	endoxifen	CYP2D6	< 0.01	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*35; CYP2D6*41	endoxifen	CYP2D6	< 0.01	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*35; CYP2D6*41	endoxifen	CYP2D6	< 0.01	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	colchicine	CYP2D6		Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	colchicine	CYP2D6		Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	colchicine	CYP2D6		Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4	paroxetine	CYP2D6		Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	paroxetine	CYP2D6		Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	paroxetine	CYP2D6		Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*35; CYP2D6*41; CYP2D6*43	risperidone	CYP2D6	> 0.05	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*35; CYP2D6*41; CYP2D6*43	risperidone	CYP2D6	> 0.05	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*35; CYP2D6*41; CYP2D6*43	risperidone	CYP2D6	> 0.05	Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*6	oxycodone	CYP2D6	= 0.8	Efficacy,Toxicity	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*6	oxycodone	CYP2D6	= 0.8	Efficacy,Toxicity	G/G	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*6	oxycodone	CYP2D6	= 0.8	Efficacy,Toxicity	G/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	antipsychotics	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	antipsychotics	CYP2D6		Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	antipsychotics	CYP2D6		Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*41	ketoprofen; tramadol	CYP2D6	= 0.035	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*41	ketoprofen; tramadol	CYP2D6	= 0.035	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*41	ketoprofen; tramadol	CYP2D6	= 0.035	Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.014	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.014	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.014	Efficacy	G/A	Positiva
+rs3892097	iloperidone	CYP2D6	= 0.059	Other	A/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4	oxycodone	CYP2D6	= 0.0001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	oxycodone	CYP2D6	= 0.0001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	oxycodone	CYP2D6	= 0.0001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*29; CYP2D6*35; CYP2D6*41	N-desmethyltamoxifen	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*29; CYP2D6*35; CYP2D6*41	N-desmethyltamoxifen	CYP2D6	< 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*29; CYP2D6*35; CYP2D6*41	N-desmethyltamoxifen	CYP2D6	< 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*9; CYP2D6*10	oxycodone	CYP2D6	= 0.95	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*9; CYP2D6*10	oxycodone	CYP2D6	= 0.95	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*9; CYP2D6*10	oxycodone	CYP2D6	= 0.95	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6	mirtazapine	CYP2D6	= 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6	mirtazapine	CYP2D6	= 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6	mirtazapine	CYP2D6	= 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10	tamoxifen	CYP2D6	= 0.004	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10	tamoxifen	CYP2D6	= 0.004	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10	tamoxifen	CYP2D6	= 0.004	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*41	endoxifen	CYP2D6	= 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*41	endoxifen	CYP2D6	= 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*41	endoxifen	CYP2D6	= 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	metoprolol	CYP2D6	< 0.007	Metabolism/PK,Toxicity	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	metoprolol	CYP2D6	< 0.007	Metabolism/PK,Toxicity	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	metoprolol	CYP2D6	< 0.007	Metabolism/PK,Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5	4-hydroxytamoxifen; endoxifen	CYP2D6	= 0.009	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	4-hydroxytamoxifen; endoxifen	CYP2D6	= 0.009	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5	4-hydroxytamoxifen; endoxifen	CYP2D6	= 0.009	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	antineoplastic agents; tamoxifen	CYP2D6	= 0.19	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	antineoplastic agents; tamoxifen	CYP2D6	= 0.19	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	antineoplastic agents; tamoxifen	CYP2D6	= 0.19	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10	nortriptyline	CYP2D6	< 0.001	Dosage	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10	nortriptyline	CYP2D6	< 0.001	Dosage	G/G	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10	nortriptyline	CYP2D6	< 0.001	Dosage	G/A	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*35	tamoxifen	CYP2D6	= 0.006	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*35	tamoxifen	CYP2D6	= 0.006	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*35	tamoxifen	CYP2D6	= 0.006	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	oxycodone	CYP2D6	= 0.14	Dosage,Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	oxycodone	CYP2D6	= 0.14	Dosage,Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4	oxycodone	CYP2D6	= 0.14	Dosage,Efficacy	G/A	Positiva
+CYP2D6*4; CYP2D6*41	clomipramine; desmethyl clomipramine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10	risperidone	CYP2D6	< 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10	risperidone	CYP2D6	< 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10	risperidone	CYP2D6	< 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*41	galantamine	CYP2D6	= 0.004	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*41	galantamine	CYP2D6	= 0.004	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*41	galantamine	CYP2D6	= 0.004	Metabolism/PK	G/A	Intermedia
+CYP2D6*4	amitriptyline; dextromethorphan	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4	dihydrocodeine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	dihydrocodeine	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	dihydrocodeine	CYP2D6		Metabolism/PK	G/A	Intermedia
+rs3892097	atorvastatin; rosuvastatin; simvastatin	CYP2D6	= 0.02	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	aripiprazole; olanzapine; risperidone	CYP2D6	< 0.01	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4	aripiprazole; olanzapine; risperidone	CYP2D6	< 0.01	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*4	aripiprazole; olanzapine; risperidone	CYP2D6	< 0.01	Toxicity	G/A	Intermedia
+CYP2D6*4	doxepin	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*41	escitalopram	CYP2D6	= 0.004	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*41	escitalopram	CYP2D6	= 0.004	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*41	escitalopram	CYP2D6	= 0.004	Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*6	clomipramine; quetiapine	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*6	mirtazapine	CYP2D6	= 0.01	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*6	mirtazapine	CYP2D6	= 0.01	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*6	mirtazapine	CYP2D6	= 0.01	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	imipramine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	imipramine	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	imipramine	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4	zuclopenthixol	CYP2D6	< 0.01	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	zuclopenthixol	CYP2D6	< 0.01	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	zuclopenthixol	CYP2D6	< 0.01	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*17; CYP2D6*41	metoprolol	CYP2D6	= 0.0001	Other	A/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*17; CYP2D6*41	metoprolol	CYP2D6	= 0.0001	Other	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*17; CYP2D6*41	metoprolol	CYP2D6	= 0.0001	Other	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*35	tamoxifen	CYP2D6	= 0.011	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*35	tamoxifen	CYP2D6	= 0.011	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*35	tamoxifen	CYP2D6	= 0.011	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	paroxetine	CYP2D6	= 0.0001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	paroxetine	CYP2D6	= 0.0001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	paroxetine	CYP2D6	= 0.0001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*1x2; CYP2D6*3; CYP2D6*4	aripiprazole	CYP2D6	< 0.01	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1x2; CYP2D6*3; CYP2D6*4	aripiprazole	CYP2D6	< 0.01	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1x2; CYP2D6*3; CYP2D6*4	aripiprazole	CYP2D6	< 0.01	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4	zuclopenthixol	CYP2D6	= 0.014	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	zuclopenthixol	CYP2D6	= 0.014	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	zuclopenthixol	CYP2D6	= 0.014	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4		CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4		CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4		CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*6	dextromethorphan	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*4; CYP2D6*7	tamoxifen	CYP2D6	=  0.009	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	antidepressants	CYP2D6	= 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	antidepressants	CYP2D6	= 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	antidepressants	CYP2D6	= 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*6	tamoxifen	CYP2D6	=  0.009	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*1x2; CYP2D6*3; CYP2D6*4	aripiprazole	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1x2; CYP2D6*3; CYP2D6*4	aripiprazole	CYP2D6	< 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1x2; CYP2D6*3; CYP2D6*4	aripiprazole	CYP2D6	< 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	endoxifen	CYP2D6	= 0.2	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	paroxetine	CYP2D6	= 0.00001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	paroxetine	CYP2D6	= 0.00001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	paroxetine	CYP2D6	= 0.00001	Metabolism/PK	G/A	Intermedia
+CYP2D6*4	amitriptyline	CYP2D6		Dosage	A/A	Negativa
+CYP2D6*1; CYP2D6*2xN; CYP2D6*4; CYP2D6*5	nortriptyline	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2xN; CYP2D6*4; CYP2D6*5	nortriptyline	CYP2D6	< 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2xN; CYP2D6*4; CYP2D6*5	nortriptyline	CYP2D6	< 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*41	nortriptyline	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4	metoprolol	CYP2D6	> 0.05	Efficacy,Toxicity	A/A	Negativa
+CYP2D6*1; CYP2D6*4	metoprolol	CYP2D6	> 0.05	Efficacy,Toxicity	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	metoprolol	CYP2D6	> 0.05	Efficacy,Toxicity	G/A	Positiva
+CYP2D6*1; CYP2D6*4	amisulpride; clozapine; haloperidol; olanzapine; quetiapine; risperidone; ziprasidone; zuclopenthixol	CYP2D6	= 0.01	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4	amisulpride; clozapine; haloperidol; olanzapine; quetiapine; risperidone; ziprasidone; zuclopenthixol	CYP2D6	= 0.01	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*4	amisulpride; clozapine; haloperidol; olanzapine; quetiapine; risperidone; ziprasidone; zuclopenthixol	CYP2D6	= 0.01	Toxicity	G/A	Intermedia
+CYP2D6*3; CYP2D6*4; CYP2D6*10	carvedilol	CYP2D6	= 0.02	Dosage	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	paroxetine	CYP2D6	= 0.0001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	paroxetine	CYP2D6	= 0.0001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5	paroxetine	CYP2D6	= 0.0001	Metabolism/PK	G/A	Intermedia
+rs3892097	tamoxifen	CYP2D6	= 0.007	Efficacy	A/A	Negativa
+CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*41	endoxifen	CYP2D6	< 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*4	amitriptyline	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*3; CYP2D6*4; CYP2D6*10	carvedilol; metoprolol	CYP2D6	= 0.75	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*35; CYP2D6*41	endoxifen	CYP2D6	< 0.01	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*35; CYP2D6*41	endoxifen	CYP2D6	< 0.01	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*35; CYP2D6*41	endoxifen	CYP2D6	< 0.01	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*41	aripiprazole; quetiapine; risperidone	CYP2D6		Other	A/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*41	aripiprazole; quetiapine; risperidone	CYP2D6		Other	G/G	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*41	aripiprazole; quetiapine; risperidone	CYP2D6		Other	G/A	Intermedia
+CYP2D6*2; CYP2D6*4		CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5	paroxetine	CYP2D6	= 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	paroxetine	CYP2D6	= 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5	paroxetine	CYP2D6	= 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	antidepressants	CYP2D6	= 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	antidepressants	CYP2D6	= 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	antidepressants	CYP2D6	= 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*5	clomipramine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1x2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9	aripiprazole	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1x2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9	aripiprazole	CYP2D6	< 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1x2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9	aripiprazole	CYP2D6	< 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10	nortriptyline	CYP2D6	< 0.005	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10	nortriptyline	CYP2D6	< 0.005	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10	nortriptyline	CYP2D6	< 0.005	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5	risperidone	CYP2D6	= 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	risperidone	CYP2D6	= 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5	risperidone	CYP2D6	= 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*5	venlafaxine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.192	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.192	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.192	Efficacy	G/A	Positiva
+CYP2D6*3; CYP2D6*4	paroxetine	CYP2D6	= 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	haloperidol	CYP2D6	= 0.04	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	haloperidol	CYP2D6	= 0.04	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	haloperidol	CYP2D6	= 0.04	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6	carvedilol	CYP2D6		Metabolism/PK,Other	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6	carvedilol	CYP2D6		Metabolism/PK,Other	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6	carvedilol	CYP2D6		Metabolism/PK,Other	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.02	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.02	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.02	Efficacy	G/A	Positiva
+rs3892097	tamoxifen	CYP2D6	= 0.36	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6; CYP2D6*10	o-desmethyltramadol	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6; CYP2D6*10	o-desmethyltramadol	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6; CYP2D6*10	o-desmethyltramadol	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	carvedilol	CYP2D6		Metabolism/PK,Other	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	carvedilol	CYP2D6		Metabolism/PK,Other	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	carvedilol	CYP2D6		Metabolism/PK,Other	G/A	Intermedia
+CYP2D6*1; CYP2D6*1x2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9	aripiprazole	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1x2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9	aripiprazole	CYP2D6	< 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1x2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9	aripiprazole	CYP2D6	< 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	olanzapine	CYP2D6		Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	olanzapine	CYP2D6		Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	olanzapine	CYP2D6		Efficacy	G/A	Positiva
+rs3892097	tamoxifen	CYP2D6	= 0.03	Efficacy	A/A	Negativa
+rs3892097	tamoxifen	CYP2D6	= 0.02	Efficacy	A/A	Negativa
+rs3892097	tamoxifen	CYP2D6	= 0.06	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6	aripiprazole	CYP2D6	= 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6	aripiprazole	CYP2D6	= 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6	aripiprazole	CYP2D6	= 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	risperidone	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4	risperidone	CYP2D6		Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*4	risperidone	CYP2D6		Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*29; CYP2D6*41	atomoxetine	CYP2D6	< 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*29; CYP2D6*41	atomoxetine	CYP2D6	< 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*29; CYP2D6*41	atomoxetine	CYP2D6	< 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*1x2; CYP2D6*2; CYP2D6*2x2; CYP2D6*2xN; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*41; CYP2D6*41x2	codeine	CYP2D6	= 0.008	Other	A/A	Intermedia
+CYP2D6*1; CYP2D6*1x2; CYP2D6*2; CYP2D6*2x2; CYP2D6*2xN; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*41; CYP2D6*41x2	codeine	CYP2D6	= 0.008	Other	G/G	Intermedia
+CYP2D6*1; CYP2D6*1x2; CYP2D6*2; CYP2D6*2x2; CYP2D6*2xN; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*41; CYP2D6*41x2	codeine	CYP2D6	= 0.008	Other	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6	carvedilol	CYP2D6		Metabolism/PK,Other	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6	carvedilol	CYP2D6		Metabolism/PK,Other	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6	carvedilol	CYP2D6		Metabolism/PK,Other	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4	duloxetine	CYP2D6		Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	duloxetine	CYP2D6		Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4	duloxetine	CYP2D6		Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*6	codeine	CYP2D6	= 0.02	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*6	codeine	CYP2D6	= 0.02	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*6	codeine	CYP2D6	= 0.02	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.075	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.075	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.075	Efficacy	G/A	Positiva
+rs3892097	anthracyclines and related substances; tamoxifen	CYP2D6	= 0.034	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*41; CYP2D6*45	n,n-didesmethyltramadol	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*41; CYP2D6*45	n,n-didesmethyltramadol	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*41; CYP2D6*45	n,n-didesmethyltramadol	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*4; CYP2D6*41	oxycodone	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*4; CYP2D6*41	oxycodone	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*4; CYP2D6*41	oxycodone	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10	risperidone	CYP2D6	= 0.055	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10	risperidone	CYP2D6	= 0.055	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10	risperidone	CYP2D6	= 0.055	Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*6	clomipramine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	clomipramine	CYP2D6	= 0.006	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	clomipramine	CYP2D6	= 0.006	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	clomipramine	CYP2D6	= 0.006	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.041	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.041	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.041	Efficacy	G/A	Positiva
+rs3892097	tamoxifen	CYP2D6	= 0.055	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	antineoplastic agents; tamoxifen	CYP2D6		Efficacy,Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	antineoplastic agents; tamoxifen	CYP2D6		Efficacy,Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	antineoplastic agents; tamoxifen	CYP2D6		Efficacy,Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*20	metoprolol	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	citalopram	CYP2D6	= 0.031	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	citalopram	CYP2D6	= 0.031	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	citalopram	CYP2D6	= 0.031	Metabolism/PK	G/A	Intermedia
+CYP2D6*4	amitriptyline	CYP2D6	= 0.066	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	methadone	CYP2D6	= 0.314	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	methadone	CYP2D6	= 0.314	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	methadone	CYP2D6	= 0.314	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6	risperidone	CYP2D6	< 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6	risperidone	CYP2D6	< 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6	risperidone	CYP2D6	< 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	oxycodone	CYP2D6		Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	oxycodone	CYP2D6		Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	oxycodone	CYP2D6		Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*41		CYP2D6	< 0.0001	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*41		CYP2D6	< 0.0001	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*41		CYP2D6	< 0.0001	Efficacy	G/A	Positiva
+rs3892097	codeine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*4	paroxetine	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*14; CYP2D6*18; CYP2D6*36	amphetamine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*14; CYP2D6*18; CYP2D6*36	amphetamine	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*14; CYP2D6*18; CYP2D6*36	amphetamine	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*41	desipramine	CYP2D6	= 0.02	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*41	desipramine	CYP2D6	= 0.02	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*41	desipramine	CYP2D6	= 0.02	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4	tramadol	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	tramadol	CYP2D6	< 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	tramadol	CYP2D6	< 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4	clomipramine	CYP2D6	= 0.006	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	clomipramine	CYP2D6	= 0.006	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	clomipramine	CYP2D6	= 0.006	Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*6	hydrocodone	CYP2D6		Efficacy	A/A	Negativa
+CYP2D6*4; CYP2D6*69	dextromethorphan	CYP2D6		Metabolism/PK	A/A	Negativa
+rs3892097	haloperidol	CYP2D6	< 0.001	Toxicity	A/A	Positiva
+CYP2D6*4; CYP2D6*6	codeine	CYP2D6		Efficacy,Toxicity	A/A	Negativa
+CYP2D6*1; CYP2D6*4	dextromethorphan	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	dextromethorphan	CYP2D6	< 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	dextromethorphan	CYP2D6	< 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5	clomipramine	CYP2D6	= 0.006	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	clomipramine	CYP2D6	= 0.006	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5	clomipramine	CYP2D6	= 0.006	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*35; CYP2D6*41	N-desmethyltamoxifen	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*35; CYP2D6*41	N-desmethyltamoxifen	CYP2D6	< 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*35; CYP2D6*41	N-desmethyltamoxifen	CYP2D6	< 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*17	tramadol	CYP2D6	= 0.018	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*17	tramadol	CYP2D6	= 0.018	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*17	tramadol	CYP2D6	= 0.018	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	citalopram	CYP2D6		Efficacy,Toxicity	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	citalopram	CYP2D6		Efficacy,Toxicity	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	citalopram	CYP2D6		Efficacy,Toxicity	G/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5	clomipramine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	clomipramine	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5	clomipramine	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	mirtazapine	CYP2D6	= 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	mirtazapine	CYP2D6	= 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	mirtazapine	CYP2D6	= 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4	clomipramine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	clomipramine	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	clomipramine	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.055	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.055	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.055	Efficacy	G/A	Positiva
+CYP2D6*4	amitriptyline	CYP2D6		Metabolism/PK,Toxicity	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*41	endoxifen	CYP2D6	< 0.0001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*41	endoxifen	CYP2D6	< 0.0001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*41	endoxifen	CYP2D6	< 0.0001	Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*6	paroxetine	CYP2D6		Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.2	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.2	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.2	Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.04	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.04	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.04	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*41		CYP2D6	= 0.002	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*41		CYP2D6	= 0.002	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*41		CYP2D6	= 0.002	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4	tramadol	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tramadol	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	tramadol	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6	paroxetine	CYP2D6	= 0.074	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6	paroxetine	CYP2D6	= 0.074	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6	paroxetine	CYP2D6	= 0.074	Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*4xN; CYP2D6*5	dextromethorphan	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tramadol	CYP2D6	= 0.035	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tramadol	CYP2D6	= 0.035	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	tramadol	CYP2D6	= 0.035	Efficacy	G/A	Positiva
+CYP2D6*4; CYP2D6*68	metoclopramide	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4	mirtazapine	CYP2D6	= 0.02	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	mirtazapine	CYP2D6	= 0.02	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	mirtazapine	CYP2D6	= 0.02	Metabolism/PK	G/A	Intermedia
+CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*11	tamoxifen	CYP2D6	= 0.009	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tramadol	CYP2D6	= 0.02	Efficacy,Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tramadol	CYP2D6	= 0.02	Efficacy,Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	tramadol	CYP2D6	= 0.02	Efficacy,Metabolism/PK	G/A	Intermedia
+CYP2D6*4	metoprolol	CYP2D6	< 0.045	Dosage,Toxicity	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	desipramine	CYP2D6	= 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	desipramine	CYP2D6	= 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	desipramine	CYP2D6	= 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*5; CYP2D6*68	cimetidine; metoclopramide	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*4; CYP2D6*31	metoprolol	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*10	vortioxetine	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*10	vortioxetine	CYP2D6	< 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*10	vortioxetine	CYP2D6	< 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	sertraline	CYP2D6	> 0.3	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	sertraline	CYP2D6	> 0.3	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	sertraline	CYP2D6	> 0.3	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	fluoxetine	CYP2D6	= 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	fluoxetine	CYP2D6	= 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	fluoxetine	CYP2D6	= 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.19	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.19	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.19	Efficacy	G/A	Positiva
+CYP2D6*3; CYP2D6*4	haloperidol; risperidone	CYP2D6	> 0.05	Efficacy	A/A	Negativa
+CYP2D6*4	amitriptyline	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*4	venlafaxine	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*4; CYP2D6*5	donepezil	CYP2D6	< 0.01	Metabolism/PK	A/A	Negativa
+CYP2D6*4; CYP2D6*17	debrisoquine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	codeine	CYP2D6	= 0.01	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	codeine	CYP2D6	= 0.01	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	codeine	CYP2D6	= 0.01	Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*5; CYP2D6*6	risperidone	CYP2D6	= 0.01712	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	aripiprazole	CYP2D6	< 0.0001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	aripiprazole	CYP2D6	< 0.0001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	aripiprazole	CYP2D6	< 0.0001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	tramadol	CYP2D6	= 0.04	Efficacy,Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tramadol	CYP2D6	= 0.04	Efficacy,Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	tramadol	CYP2D6	= 0.04	Efficacy,Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.01	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.01	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.01	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4	vortioxetine	CYP2D6	= 0.003	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4	vortioxetine	CYP2D6	= 0.003	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*4	vortioxetine	CYP2D6	= 0.003	Toxicity	G/A	Intermedia
+CYP2D6*4	tamoxifen	CYP2D6	= 0.015	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	mirtazapine	CYP2D6	= 0.02	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	mirtazapine	CYP2D6	= 0.02	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	mirtazapine	CYP2D6	= 0.02	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5	metoclopramide	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5	metoclopramide	CYP2D6		Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	metoclopramide	CYP2D6		Toxicity	G/A	Intermedia
+CYP2D6*4; CYP2D6*11	sparteine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*3; CYP2D6*4	doxepin	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6	endoxifen	CYP2D6	< 0.0001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6	endoxifen	CYP2D6	< 0.0001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6	endoxifen	CYP2D6	< 0.0001	Metabolism/PK	G/A	Intermedia
+rs3892097	haloperidol	CYP2D6	< 0.001	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10	fluoxetine; nortriptyline	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10	fluoxetine; nortriptyline	CYP2D6		Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10	fluoxetine; nortriptyline	CYP2D6		Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*9; CYP2D6*10	oxycodone	CYP2D6	> 0.44	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*9; CYP2D6*10	oxycodone	CYP2D6	> 0.44	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*9; CYP2D6*10	oxycodone	CYP2D6	> 0.44	Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	debrisoquine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	debrisoquine	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	debrisoquine	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5	codeine	CYP2D6		Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	codeine	CYP2D6		Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5	codeine	CYP2D6		Efficacy	G/A	Positiva
+CYP2D6*4; CYP2D6*31	dextromethorphan	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	tramadol	CYP2D6	= 0.001	Dosage,Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	tramadol	CYP2D6	= 0.001	Dosage,Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4	tramadol	CYP2D6	= 0.001	Dosage,Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4	raloxifene; tamoxifen	CYP2D6	= 0.74	Efficacy,Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	raloxifene; tamoxifen	CYP2D6	= 0.74	Efficacy,Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	raloxifene; tamoxifen	CYP2D6	= 0.74	Efficacy,Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*17; CYP2D6*41	metoprolol	CYP2D6	= 0.37	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*17; CYP2D6*41	metoprolol	CYP2D6	= 0.37	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*17; CYP2D6*41	metoprolol	CYP2D6	= 0.37	Efficacy	G/A	Positiva
+CYP2D6*4	simvastatin	CYP2D6	< 0.001	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.32	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.32	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.32	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4	paroxetine	CYP2D6	= 0.036	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	paroxetine	CYP2D6	= 0.036	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	paroxetine	CYP2D6	= 0.036	Metabolism/PK	G/A	Intermedia
+CYP2D6*4	timolol	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4	venlafaxine	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4	venlafaxine	CYP2D6		Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*4	venlafaxine	CYP2D6		Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.008	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.008	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.008	Efficacy	G/A	Positiva
+CYP2D6*4; CYP2D6*5	doxepin	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+rs3892097	fluoxetine	CYP2D6	= 0.005	Efficacy	A/A	Negativa
+CYP2D6*4	carvedilol	CYP2D6	= 0.093	Dosage	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*6	fluoxetine	CYP2D6	= 0.01	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*6	fluoxetine	CYP2D6	= 0.01	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*6	fluoxetine	CYP2D6	= 0.01	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*9	tramadol	CYP2D6	= 0.005	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*9	tramadol	CYP2D6	= 0.005	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*9	tramadol	CYP2D6	= 0.005	Metabolism/PK	G/A	Intermedia
+CYP2D6*4	metoprolol	CYP2D6	= 0.023	Dosage	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*41	galantamine	CYP2D6	= 0.676	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*41	galantamine	CYP2D6	= 0.676	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*41	galantamine	CYP2D6	= 0.676	Metabolism/PK	G/A	Intermedia
+rs3892097	venlafaxine	CYP2D6	= 0.005	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*41	dextromethorphan	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*41	dextromethorphan	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*41	dextromethorphan	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5	mirtazapine	CYP2D6	= 0.004	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	mirtazapine	CYP2D6	= 0.004	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5	mirtazapine	CYP2D6	= 0.004	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4	methadone	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	methadone	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	methadone	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*11	tamoxifen	CYP2D6	= 0.224	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.17	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.17	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.17	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	fluoxetine	CYP2D6	= 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	fluoxetine	CYP2D6	= 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	fluoxetine	CYP2D6	= 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	tamoxifen	CYP2D6	= 0.02	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	tamoxifen	CYP2D6	= 0.02	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	tamoxifen	CYP2D6	= 0.02	Efficacy	G/A	Positiva
+CYP2D6*4	acebutolol; atenolol; bevantolol; bisoprolol; celiprolol; labetalol; oxprenolol; penbutolol; pindolol; sotalol	CYP2D6	< 0.045	Toxicity	A/A	Positiva
+CYP2D6*4	atorvastatin	CYP2D6	= 0.001	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.48	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.48	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.48	Efficacy	G/A	Positiva
+CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*7	tamoxifen	CYP2D6	= 0.035	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*41	3,4-methylenedioxymethamphetamine	CYP2D6	< 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*41	3,4-methylenedioxymethamphetamine	CYP2D6	< 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*41	3,4-methylenedioxymethamphetamine	CYP2D6	< 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*3; CYP2D6*4	citalopram; fluoxetine; fluvoxamine; paroxetine; sertraline	CYP2D6	> 0.05	Efficacy	A/A	Negativa
+CYP2D6*3; CYP2D6*4	doxepin	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*17; CYP2D6*41	metoprolol	CYP2D6	> 0.05	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*17; CYP2D6*41	metoprolol	CYP2D6	> 0.05	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*17; CYP2D6*41	metoprolol	CYP2D6	> 0.05	Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	trimipramine	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	trimipramine	CYP2D6	< 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	trimipramine	CYP2D6	< 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	risperidone	CYP2D6	< 0.05	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4	risperidone	CYP2D6	< 0.05	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*4	risperidone	CYP2D6	< 0.05	Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5	tolperisone	CYP2D6	= 0.0235	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	tolperisone	CYP2D6	= 0.0235	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5	tolperisone	CYP2D6	= 0.0235	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	amitriptyline	CYP2D6	> 0.4	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	amitriptyline	CYP2D6	> 0.4	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	amitriptyline	CYP2D6	> 0.4	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.14	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.14	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.14	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4	oxycodone	CYP2D6		Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	oxycodone	CYP2D6		Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	oxycodone	CYP2D6		Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.03	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.03	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.03	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*41	galantamine	CYP2D6	= 0.025	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*41	galantamine	CYP2D6	= 0.025	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*41	galantamine	CYP2D6	= 0.025	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*41	paroxetine	CYP2D6	= 0.048	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*41	paroxetine	CYP2D6	= 0.048	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*41	paroxetine	CYP2D6	= 0.048	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*17; CYP2D6*41	oxymorphone	CYP2D6	= 0.0162	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*17; CYP2D6*41	oxymorphone	CYP2D6	= 0.0162	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*17; CYP2D6*41	oxymorphone	CYP2D6	= 0.0162	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	clozapine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	clozapine	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	clozapine	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	antineoplastic agents; tamoxifen	CYP2D6	> 0.05	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	antineoplastic agents; tamoxifen	CYP2D6	> 0.05	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	antineoplastic agents; tamoxifen	CYP2D6	> 0.05	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*14; CYP2D6*18; CYP2D6*36	methamphetamine	CYP2D6	= 0.035	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*14; CYP2D6*18; CYP2D6*36	methamphetamine	CYP2D6	= 0.035	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*14; CYP2D6*18; CYP2D6*36	methamphetamine	CYP2D6	= 0.035	Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*6	oxycodone; tramadol	CYP2D6		Efficacy,Toxicity	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	quetiapine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	quetiapine	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	quetiapine	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	nortriptyline	CYP2D6	< 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	nortriptyline	CYP2D6	< 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	nortriptyline	CYP2D6	< 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*6	fluoxetine	CYP2D6	= 0.01	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*6	fluoxetine	CYP2D6	= 0.01	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*6	fluoxetine	CYP2D6	= 0.01	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*10	fluoxetine	CYP2D6	= 0.01	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*10	fluoxetine	CYP2D6	= 0.01	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*10	fluoxetine	CYP2D6	= 0.01	Metabolism/PK	G/A	Intermedia
+CYP2D6*4	primaquine	CYP2D6	= 0.019	Efficacy	A/A	Negativa
+rs3892097	bisoprolol	CYP2D6	= 0.02	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	desipramine	CYP2D6	= 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	desipramine	CYP2D6	= 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5	desipramine	CYP2D6	= 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*10; CYP2D6*17	atomoxetine	CYP2D6	< 0.05	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*10; CYP2D6*17	atomoxetine	CYP2D6	< 0.05	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*10; CYP2D6*17	atomoxetine	CYP2D6	< 0.05	Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	anthracyclines and related substances; tamoxifen	CYP2D6	= 0.034	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	anthracyclines and related substances; tamoxifen	CYP2D6	= 0.034	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	anthracyclines and related substances; tamoxifen	CYP2D6	= 0.034	Efficacy	G/A	Positiva
+rs3892097	venlafaxine	CYP2D6	= 0.002	Metabolism/PK	A/A	Negativa
+rs3892097	haloperidol	CYP2D6	< 0.001	Toxicity	A/A	Positiva
+CYP2D6*3; CYP2D6*4	debrisoquine; sparteine	CYP2D6		Metabolism/PK	A/A	Negativa
+rs3892097	venlafaxine	CYP2D6		Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	amitriptyline; clomipramine; doxepin; imipramine; maprotiline; nortriptyline; opipramol	CYP2D6	= 0.15	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4	amitriptyline; clomipramine; doxepin; imipramine; maprotiline; nortriptyline; opipramol	CYP2D6	= 0.15	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*4	amitriptyline; clomipramine; doxepin; imipramine; maprotiline; nortriptyline; opipramol	CYP2D6	= 0.15	Toxicity	G/A	Intermedia
+CYP2D6*3; CYP2D6*4; CYP2D6*5	aspirin; sulfasalazine	CYP2D6		Dosage,Toxicity	A/A	Negativa
+CYP2D6*1; CYP2D6*4	anthracyclines and related substances; tamoxifen	CYP2D6	= 0.945	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	anthracyclines and related substances; tamoxifen	CYP2D6	= 0.945	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	anthracyclines and related substances; tamoxifen	CYP2D6	= 0.945	Efficacy	G/A	Positiva
+CYP2D6*4; CYP2D6*5	atomoxetine; methylphenidate	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1x2; CYP2D6*2; CYP2D6*2x2; CYP2D6*3; CYP2D6*4; CYP2D6*10; CYP2D6*17	dextromethorphan	CYP2D6	= 0.00013	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1x2; CYP2D6*2; CYP2D6*2x2; CYP2D6*3; CYP2D6*4; CYP2D6*10; CYP2D6*17	dextromethorphan	CYP2D6	= 0.00013	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1x2; CYP2D6*2; CYP2D6*2x2; CYP2D6*3; CYP2D6*4; CYP2D6*10; CYP2D6*17	dextromethorphan	CYP2D6	= 0.00013	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*17; CYP2D6*41	citalopram; clomipramine; duloxetine; escitalopram; fluoxetine; fluvoxamine; mirtazapine; paroxetine; sertraline; venlafaxine	CYP2D6	= 0.743	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*17; CYP2D6*41	citalopram; clomipramine; duloxetine; escitalopram; fluoxetine; fluvoxamine; mirtazapine; paroxetine; sertraline; venlafaxine	CYP2D6	= 0.743	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*17; CYP2D6*41	citalopram; clomipramine; duloxetine; escitalopram; fluoxetine; fluvoxamine; mirtazapine; paroxetine; sertraline; venlafaxine	CYP2D6	= 0.743	Efficacy	G/A	Positiva
+CYP2D6*4	venlafaxine	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*11	tamoxifen	CYP2D6	= 0.352	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	Selective serotonin reuptake inhibitors	CYP2D6	= 0.03	Dosage	A/A	Negativa
+CYP2D6*1; CYP2D6*4	Selective serotonin reuptake inhibitors	CYP2D6	= 0.03	Dosage	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	Selective serotonin reuptake inhibitors	CYP2D6	= 0.03	Dosage	G/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*10	antineoplastic agents; tamoxifen	CYP2D6	= 0.75	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*10	antineoplastic agents; tamoxifen	CYP2D6	= 0.75	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*10	antineoplastic agents; tamoxifen	CYP2D6	= 0.75	Efficacy	G/A	Positiva
+rs3892097	fluoxetine	CYP2D6	< 0.001	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	antipsychotics	CYP2D6	= 0.024	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5	antipsychotics	CYP2D6	= 0.024	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	antipsychotics	CYP2D6	= 0.024	Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	doxepin	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	doxepin	CYP2D6	< 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	doxepin	CYP2D6	< 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	nortriptyline	CYP2D6	= 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	nortriptyline	CYP2D6	= 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	nortriptyline	CYP2D6	= 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	tolterodine	CYP2D6	= 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tolterodine	CYP2D6	= 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	tolterodine	CYP2D6	= 0.05	Metabolism/PK	G/A	Intermedia
+rs3892097	venlafaxine	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4	mirtazapine; paroxetine	CYP2D6		Metabolism/PK,Toxicity	A/A	Negativa
+CYP2D6*1; CYP2D6*4	mirtazapine; paroxetine	CYP2D6		Metabolism/PK,Toxicity	G/G	Positiva
+CYP2D6*1; CYP2D6*4	mirtazapine; paroxetine	CYP2D6		Metabolism/PK,Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*10; CYP2D6*17	endoxifen	CYP2D6	= 0.16	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*10; CYP2D6*17	endoxifen	CYP2D6	= 0.16	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*10; CYP2D6*17	endoxifen	CYP2D6	= 0.16	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	codeine	CYP2D6	< 0.05	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	codeine	CYP2D6	< 0.05	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	codeine	CYP2D6	< 0.05	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	hydroxychloroquine	CYP2D6	= 0.54	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	hydroxychloroquine	CYP2D6	= 0.54	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	hydroxychloroquine	CYP2D6	= 0.54	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	fluoxetine	CYP2D6		Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	fluoxetine	CYP2D6		Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	fluoxetine	CYP2D6		Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*9; CYP2D6*10; CYP2D6*35; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.052	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*9; CYP2D6*10; CYP2D6*35; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.052	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*9; CYP2D6*10; CYP2D6*35; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.052	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.012	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.012	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.012	Efficacy	G/A	Positiva
+CYP2D6*4	venlafaxine	CYP2D6	= 0.007	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	risperidone	CYP2D6	= 0.003	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	risperidone	CYP2D6	= 0.003	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	risperidone	CYP2D6	= 0.003	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5	mirtazapine; paroxetine	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5	mirtazapine; paroxetine	CYP2D6		Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	mirtazapine; paroxetine	CYP2D6		Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*41	3,4-methylenedioxymethamphetamine	CYP2D6	< 0.01	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*41	3,4-methylenedioxymethamphetamine	CYP2D6	< 0.01	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*41	3,4-methylenedioxymethamphetamine	CYP2D6	< 0.01	Efficacy	G/A	Positiva
+rs3892097	metoprolol	CYP2D6	< 1.0E-4	Efficacy,Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	antineoplastic agents; tamoxifen	CYP2D6	= 0.71	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	antineoplastic agents; tamoxifen	CYP2D6	= 0.71	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	antineoplastic agents; tamoxifen	CYP2D6	= 0.71	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4	nortriptyline	CYP2D6	= 0.01	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	nortriptyline	CYP2D6	= 0.01	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	nortriptyline	CYP2D6	= 0.01	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*10; CYP2D6*17	4-hydroxytamoxifen	CYP2D6	= 0.83	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*10; CYP2D6*17	4-hydroxytamoxifen	CYP2D6	= 0.83	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*10; CYP2D6*17	4-hydroxytamoxifen	CYP2D6	= 0.83	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.064	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.064	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.064	Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	antineoplastic agents; tamoxifen	CYP2D6	= 0.0089	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	antineoplastic agents; tamoxifen	CYP2D6	= 0.0089	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	antineoplastic agents; tamoxifen	CYP2D6	= 0.0089	Efficacy	G/A	Positiva
+CYP2D6*4	venlafaxine	CYP2D6	< 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	imipramine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	imipramine	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	imipramine	CYP2D6		Metabolism/PK	G/A	Intermedia
+rs3892097	risperidone	CYP2D6	< 0.001	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	risperidone	CYP2D6	= 0.021	Other	A/A	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	risperidone	CYP2D6	= 0.021	Other	G/G	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	risperidone	CYP2D6	= 0.021	Other	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	amitriptyline	CYP2D6	> 0.05	Dosage	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	amitriptyline	CYP2D6	> 0.05	Dosage	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	amitriptyline	CYP2D6	> 0.05	Dosage	G/A	Positiva
+CYP2D6*1; CYP2D6*4	hydromorphone	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	hydromorphone	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	hydromorphone	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.169	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.169	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.169	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5	trimipramine	CYP2D6	= 0.005	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5	trimipramine	CYP2D6	= 0.005	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5	trimipramine	CYP2D6	= 0.005	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	venlafaxine	CYP2D6	< 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	venlafaxine	CYP2D6	< 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	venlafaxine	CYP2D6	< 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*9; CYP2D6*10; CYP2D6*35; CYP2D6*41	tamoxifen	CYP2D6	= 0.04	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*9; CYP2D6*10; CYP2D6*35; CYP2D6*41	tamoxifen	CYP2D6	= 0.04	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*9; CYP2D6*10; CYP2D6*35; CYP2D6*41	tamoxifen	CYP2D6	= 0.04	Efficacy	G/A	Positiva
+CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*15	dextromethorphan	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*14	risperidone	CYP2D6	= 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*14	risperidone	CYP2D6	= 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*14	risperidone	CYP2D6	= 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*4	metoclopramide	CYP2D6		Toxicity	A/A	Positiva
+rs3892097	duloxetine	CYP2D6	< 0.001	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5	trimipramine	CYP2D6	= 0.045	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5	trimipramine	CYP2D6	= 0.045	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5	trimipramine	CYP2D6	= 0.045	Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*10	atomoxetine	CYP2D6		Dosage,Toxicity	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*10	atomoxetine	CYP2D6		Dosage,Toxicity	G/G	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*10	atomoxetine	CYP2D6		Dosage,Toxicity	G/A	Positiva
+CYP2D6*2xN; CYP2D6*4; CYP2D6*5	nicotine	CYP2D6	= 0.018	Toxicity	A/A	Positiva
+CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5	dextromethorphan	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	citalopram	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	citalopram	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	citalopram	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*41	atomoxetine	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*41	atomoxetine	CYP2D6		Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*41	atomoxetine	CYP2D6		Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5	paroxetine	CYP2D6		Other	A/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5	paroxetine	CYP2D6		Other	G/G	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5	paroxetine	CYP2D6		Other	G/A	Intermedia
+CYP2D6*4	oxycodone	CYP2D6		Metabolism/PK	A/A	Negativa
+rs3892097	tamoxifen	CYP2D6	= 0.02	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5	trimipramine	CYP2D6	= 0.01	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5	trimipramine	CYP2D6	= 0.01	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5	trimipramine	CYP2D6	= 0.01	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.02	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.02	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.02	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*10x2; CYP2D6*14; CYP2D6*21; CYP2D6*36; CYP2D6*41	tamoxifen	CYP2D6	< 0.0002	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*10x2; CYP2D6*14; CYP2D6*21; CYP2D6*36; CYP2D6*41	tamoxifen	CYP2D6	< 0.0002	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*10x2; CYP2D6*14; CYP2D6*21; CYP2D6*36; CYP2D6*41	tamoxifen	CYP2D6	< 0.0002	Efficacy	G/A	Positiva
+CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*15	debrisoquine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6; CYP2D6*14; CYP2D6*41	tamoxifen	CYP2D6	= 0.48	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6; CYP2D6*14; CYP2D6*41	tamoxifen	CYP2D6	= 0.48	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6; CYP2D6*14; CYP2D6*41	tamoxifen	CYP2D6	= 0.48	Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	tramadol	CYP2D6	= 0.005	Dosage,Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tramadol	CYP2D6	= 0.005	Dosage,Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	tramadol	CYP2D6	= 0.005	Dosage,Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5	nortriptyline	CYP2D6	> 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	nortriptyline	CYP2D6	> 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5	nortriptyline	CYP2D6	> 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*5; CYP2D6*6	antipsychotics	CYP2D6	= 0.01465	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tramadol	CYP2D6	= 0.001	Dosage,Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tramadol	CYP2D6	= 0.001	Dosage,Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	tramadol	CYP2D6	= 0.001	Dosage,Efficacy	G/A	Positiva
+CYP2D6*4; CYP2D6*38	debrisoquine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*4; CYP2D6*12	sparteine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*4; CYP2D6*5; CYP2D6*6	risperidone	CYP2D6	= 0.06291	Efficacy	A/A	Negativa
+CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*41	3,4-methylenedioxymethamphetamine	CYP2D6	< 0.02	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	mirtazapine	CYP2D6	= 0.02	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	mirtazapine	CYP2D6	= 0.02	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	mirtazapine	CYP2D6	= 0.02	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5	nortriptyline	CYP2D6	= 0.0038	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	nortriptyline	CYP2D6	= 0.0038	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5	nortriptyline	CYP2D6	= 0.0038	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.04	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.04	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.04	Efficacy	G/A	Positiva
+rs3892097	clopidogrel	CYP2D6	= 1.0	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*10	tamoxifen	CYP2D6	= 0.27	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*10	tamoxifen	CYP2D6	= 0.27	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*10	tamoxifen	CYP2D6	= 0.27	Efficacy	G/A	Positiva
+CYP2D6*4; CYP2D6*5; CYP2D6*6	risperidone	CYP2D6	= 0.06291	Efficacy	A/A	Negativa
+rs3892097	carbamazepine; lamotrigine; phenytoin; primidone; valproic acid	CYP2D6		Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.012	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.012	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.012	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4	haloperidol	CYP2D6	< 0.001	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4	haloperidol	CYP2D6	< 0.001	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*4	haloperidol	CYP2D6	< 0.001	Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	mirtazapine	CYP2D6	= 0.02	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4	mirtazapine	CYP2D6	= 0.02	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*4	mirtazapine	CYP2D6	= 0.02	Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5	tramadol	CYP2D6	= 0.005	Dosage,Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	tramadol	CYP2D6	= 0.005	Dosage,Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5	tramadol	CYP2D6	= 0.005	Dosage,Efficacy	G/A	Positiva
+CYP2D6*4; CYP2D6*4xN	debrisoquine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	tamoxifen	CYP2D6	= 0.09	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	tamoxifen	CYP2D6	= 0.09	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5	tamoxifen	CYP2D6	= 0.09	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4	venlafaxine	CYP2D6	= 5.0E-4	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	venlafaxine	CYP2D6	= 5.0E-4	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	venlafaxine	CYP2D6	= 5.0E-4	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*6; CYP2D6*8	endoxifen	CYP2D6	= 0.002	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*6; CYP2D6*8	endoxifen	CYP2D6	= 0.002	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*6; CYP2D6*8	endoxifen	CYP2D6	= 0.002	Metabolism/PK	G/A	Intermedia
+rs3892097	amitriptyline; clomipramine; doxepin; imipramine; maprotiline; nortriptyline; opipramol	CYP2D6	= 0.01	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	fluoxetine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	fluoxetine	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	fluoxetine	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	venlafaxine	CYP2D6	= 0.018	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	venlafaxine	CYP2D6	= 0.018	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	venlafaxine	CYP2D6	= 0.018	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.02	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.02	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.02	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	tolterodine	CYP2D6	< 0.02	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	tolterodine	CYP2D6	< 0.02	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	tolterodine	CYP2D6	< 0.02	Metabolism/PK	G/A	Intermedia
+rs3892097	amitriptyline; clomipramine; doxepin; imipramine; maprotiline; nortriptyline; opipramol	CYP2D6	= 0.03	Dosage,Efficacy	A/A	Negativa
+CYP2D6*4; CYP2D6*5; CYP2D6*6	sparteine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	venlafaxine	CYP2D6		Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	venlafaxine	CYP2D6		Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	venlafaxine	CYP2D6		Efficacy	G/A	Positiva
+CYP2D6*3; CYP2D6*4	codeine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10	sparteine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10	sparteine	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10	sparteine	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*4	codeine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*36; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.273	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*36; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.273	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*36; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.273	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.02	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.02	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.02	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.11	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.11	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.11	Efficacy	G/A	Positiva
+CYP2D6*4	venlafaxine	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*4	desvenlafaxine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*4; CYP2D6*41	codeine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*4; CYP2D6*5	donepezil	CYP2D6	= 0.13	Toxicity	A/A	Positiva
+CYP2D6*4; CYP2D6*6	codeine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6	venlafaxine	CYP2D6	< 0.005	Metabolism/PK,Toxicity	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6	venlafaxine	CYP2D6	< 0.005	Metabolism/PK,Toxicity	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6	venlafaxine	CYP2D6	< 0.005	Metabolism/PK,Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*4	tramadol	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*4	tramadol	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*4	tramadol	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*4	duloxetine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*14; CYP2D6*21; CYP2D6*36; CYP2D6*41	tamoxifen	CYP2D6	= 1.78E-5	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*14; CYP2D6*21; CYP2D6*36; CYP2D6*41	tamoxifen	CYP2D6	= 1.78E-5	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*14; CYP2D6*21; CYP2D6*36; CYP2D6*41	tamoxifen	CYP2D6	= 1.78E-5	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	fluoxetine	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	fluoxetine	CYP2D6	< 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	fluoxetine	CYP2D6	< 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*36; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.005	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*36; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.005	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*36; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.005	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	haloperidol	CYP2D6	= 0.006	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	haloperidol	CYP2D6	= 0.006	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	haloperidol	CYP2D6	= 0.006	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10	antineoplastic agents; tamoxifen	CYP2D6	< 0.001	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10	antineoplastic agents; tamoxifen	CYP2D6	< 0.001	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10	antineoplastic agents; tamoxifen	CYP2D6	< 0.001	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	codeine; hydrocodone; oxycodone	CYP2D6	= 0.02	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	codeine; hydrocodone; oxycodone	CYP2D6	= 0.02	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	codeine; hydrocodone; oxycodone	CYP2D6	= 0.02	Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	amitriptyline; clomipramine; doxepin; imipramine; maprotiline; nortriptyline; opipramol	CYP2D6	= 0.01	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4	amitriptyline; clomipramine; doxepin; imipramine; maprotiline; nortriptyline; opipramol	CYP2D6	= 0.01	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*4	amitriptyline; clomipramine; doxepin; imipramine; maprotiline; nortriptyline; opipramol	CYP2D6	= 0.01	Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*17; CYP2D6*41	citalopram; clomipramine; duloxetine; escitalopram; fluoxetine; fluvoxamine; mirtazapine; paroxetine; sertraline; venlafaxine	CYP2D6	= 0.619	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*17; CYP2D6*41	citalopram; clomipramine; duloxetine; escitalopram; fluoxetine; fluvoxamine; mirtazapine; paroxetine; sertraline; venlafaxine	CYP2D6	= 0.619	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*17; CYP2D6*41	citalopram; clomipramine; duloxetine; escitalopram; fluoxetine; fluvoxamine; mirtazapine; paroxetine; sertraline; venlafaxine	CYP2D6	= 0.619	Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	fluvastatin; simvastatin	CYP2D6		Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	fluvastatin; simvastatin	CYP2D6		Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	fluvastatin; simvastatin	CYP2D6		Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*10	escitalopram	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*10	escitalopram	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*10	escitalopram	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	timolol	CYP2D6	< 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	timolol	CYP2D6	< 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	timolol	CYP2D6	< 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.11	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.11	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	tamoxifen	CYP2D6	= 0.11	Efficacy	G/A	Positiva
+CYP2D6*4; CYP2D6*59	sparteine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	risperidone	CYP2D6		Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	risperidone	CYP2D6		Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	risperidone	CYP2D6		Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*4	fluoxetine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*4	fluoxetine	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*4	fluoxetine	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	citalopram; escitalopram; fluoxetine; fluvoxamine; paroxetine; sertraline	CYP2D6	= 0.03	Dosage,Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	citalopram; escitalopram; fluoxetine; fluvoxamine; paroxetine; sertraline	CYP2D6	= 0.03	Dosage,Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	citalopram; escitalopram; fluoxetine; fluvoxamine; paroxetine; sertraline	CYP2D6	= 0.03	Dosage,Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6	paroxetine	CYP2D6	= 0.074	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6	paroxetine	CYP2D6	= 0.074	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6	paroxetine	CYP2D6	= 0.074	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	primaquine	CYP2D6	= 0.01	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	primaquine	CYP2D6	= 0.01	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	primaquine	CYP2D6	= 0.01	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	amitriptyline	CYP2D6	= 0.0005	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	amitriptyline	CYP2D6	= 0.0005	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	amitriptyline	CYP2D6	= 0.0005	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	nortriptyline	CYP2D6	< 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	nortriptyline	CYP2D6	< 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	nortriptyline	CYP2D6	< 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	amisulpride; clozapine; haloperidol; olanzapine; quetiapine; risperidone; ziprasidone; zuclopenthixol	CYP2D6	= 0.07	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	amisulpride; clozapine; haloperidol; olanzapine; quetiapine; risperidone; ziprasidone; zuclopenthixol	CYP2D6	= 0.07	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	amisulpride; clozapine; haloperidol; olanzapine; quetiapine; risperidone; ziprasidone; zuclopenthixol	CYP2D6	= 0.07	Toxicity	G/A	Intermedia
+CYP2D6*4; CYP2D6*11	sparteine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	tamoxifen	CYP2D6	= 0.09	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	tamoxifen	CYP2D6	= 0.09	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5	tamoxifen	CYP2D6	= 0.09	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	aripiprazole	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	aripiprazole	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	aripiprazole	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	amitriptyline; clomipramine; doxepin; imipramine; maprotiline; nortriptyline; opipramol	CYP2D6	= 0.03	Dosage,Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	amitriptyline; clomipramine; doxepin; imipramine; maprotiline; nortriptyline; opipramol	CYP2D6	= 0.03	Dosage,Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	amitriptyline; clomipramine; doxepin; imipramine; maprotiline; nortriptyline; opipramol	CYP2D6	= 0.03	Dosage,Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*6	methadone	CYP2D6	= 0.103	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*6	methadone	CYP2D6	= 0.103	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*6	methadone	CYP2D6	= 0.103	Efficacy	G/A	Positiva
+rs3892097	tamoxifen	CYP2D6	= 0.03	Efficacy	A/A	Negativa
+CYP2D6*4	carvedilol	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	codeine	CYP2D6	< 0.05	Other	A/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	codeine	CYP2D6	< 0.05	Other	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	codeine	CYP2D6	< 0.05	Other	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	amitriptyline	CYP2D6	= 0.036	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	amitriptyline	CYP2D6	= 0.036	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	amitriptyline	CYP2D6	= 0.036	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	endoxifen	CYP2D6	< 0.00069	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	endoxifen	CYP2D6	< 0.00069	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	endoxifen	CYP2D6	< 0.00069	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	amitriptyline	CYP2D6	= 0.00001	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	amitriptyline	CYP2D6	= 0.00001	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	amitriptyline	CYP2D6	= 0.00001	Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	(R)-methadone; (S)-methadone	CYP2D6	= 0.024	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	(R)-methadone; (S)-methadone	CYP2D6	= 0.024	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	(R)-methadone; (S)-methadone	CYP2D6	= 0.024	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	primaquine	CYP2D6	= 0.007	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	primaquine	CYP2D6	= 0.007	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	primaquine	CYP2D6	= 0.007	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*10	duloxetine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*10	duloxetine	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*10	duloxetine	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*41	endoxifen	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*41	endoxifen	CYP2D6	< 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*41	endoxifen	CYP2D6	< 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4	tamoxifen	CYP2D6	= 0.04	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	tamoxifen	CYP2D6	= 0.04	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4	tamoxifen	CYP2D6	= 0.04	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*6	tramadol	CYP2D6	< 0.02	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*6	tramadol	CYP2D6	< 0.02	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*6	tramadol	CYP2D6	< 0.02	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	risperidone	CYP2D6	= 0.006	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	risperidone	CYP2D6	= 0.006	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	risperidone	CYP2D6	= 0.006	Metabolism/PK	G/A	Intermedia
+CYP2D6*3; CYP2D6*4	tamoxifen	CYP2D6	= 0.009	Efficacy	A/A	Negativa
+CYP2D6*3; CYP2D6*4; CYP2D6*5	codeine	CYP2D6	> 0.05	Other	A/A	Intermedia
+CYP2D6*1; CYP2D6*4	ethylmorphine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	ethylmorphine	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	ethylmorphine	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	antineoplastic agents; tamoxifen	CYP2D6		Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	antineoplastic agents; tamoxifen	CYP2D6		Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	antineoplastic agents; tamoxifen	CYP2D6		Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	(R)-methadone; (S)-methadone	CYP2D6	= 0.024	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	(R)-methadone; (S)-methadone	CYP2D6	= 0.024	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	(R)-methadone; (S)-methadone	CYP2D6	= 0.024	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*6	fluvoxamine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*6	fluvoxamine	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*6	fluvoxamine	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10	antineoplastic agents; tamoxifen	CYP2D6	= 0.001	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10	antineoplastic agents; tamoxifen	CYP2D6	= 0.001	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10	antineoplastic agents; tamoxifen	CYP2D6	= 0.001	Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	amitriptyline	CYP2D6	< 1.0E-5	Metabolism/PK,Other	A/A	Negativa
+CYP2D6*1; CYP2D6*4	amitriptyline	CYP2D6	< 1.0E-5	Metabolism/PK,Other	G/G	Positiva
+CYP2D6*1; CYP2D6*4	amitriptyline	CYP2D6	< 1.0E-5	Metabolism/PK,Other	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	risperidone	CYP2D6	= 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	risperidone	CYP2D6	= 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	risperidone	CYP2D6	= 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6	tamoxifen	CYP2D6	= 0.07	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6	tamoxifen	CYP2D6	= 0.07	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6	tamoxifen	CYP2D6	= 0.07	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*21; CYP2D6*36	flecainide	CYP2D6	= 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*21; CYP2D6*36	flecainide	CYP2D6	= 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*21; CYP2D6*36	flecainide	CYP2D6	= 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	acetaminophen; duloxetine; ibuprofen; oxycodone; pregabalin	CYP2D6		Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	acetaminophen; duloxetine; ibuprofen; oxycodone; pregabalin	CYP2D6		Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	acetaminophen; duloxetine; ibuprofen; oxycodone; pregabalin	CYP2D6		Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*10	Enzyme inhibitors; leuprolide; tamoxifen	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*10	Enzyme inhibitors; leuprolide; tamoxifen	CYP2D6		Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*10	Enzyme inhibitors; leuprolide; tamoxifen	CYP2D6		Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	metoprolol	CYP2D6	< 0.05	Efficacy,Other	A/A	Negativa
+CYP2D6*1; CYP2D6*4	metoprolol	CYP2D6	< 0.05	Efficacy,Other	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	metoprolol	CYP2D6	< 0.05	Efficacy,Other	G/A	Positiva
+rs3892097	valproic acid	CYP2D6	= 0.047	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	clozapine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	clozapine	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	clozapine	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	primaquine	CYP2D6	= 0.002	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	primaquine	CYP2D6	= 0.002	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	primaquine	CYP2D6	= 0.002	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4		CYP2D6		Other	A/A	Intermedia
+CYP2D6*1; CYP2D6*4		CYP2D6		Other	G/G	Intermedia
+CYP2D6*1; CYP2D6*4		CYP2D6		Other	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	tramadol	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	tramadol	CYP2D6	< 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	tramadol	CYP2D6	< 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	codeine	CYP2D6	< 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	codeine	CYP2D6	< 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	codeine	CYP2D6	< 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4	zuclopenthixol	CYP2D6	< 0.01	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	zuclopenthixol	CYP2D6	< 0.01	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	zuclopenthixol	CYP2D6	< 0.01	Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*5	debrisoquine; sparteine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*35; CYP2D6*41	n,o-didesmethyltramadol; o-desmethyltramadol	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*35; CYP2D6*41	n,o-didesmethyltramadol; o-desmethyltramadol	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*35; CYP2D6*41	n,o-didesmethyltramadol; o-desmethyltramadol	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*5	tamoxifen	CYP2D6	=  0.009	Efficacy	A/A	Negativa
+CYP2D6*4	tamoxifen	CYP2D6	=  0.009	Efficacy	A/A	Negativa
+CYP2D6*4; CYP2D6*6	dextromethorphan; sparteine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	fluoxetine	CYP2D6	= 0.004	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	fluoxetine	CYP2D6	= 0.004	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	fluoxetine	CYP2D6	= 0.004	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*4; CYP2D6*41	tramadol	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*4; CYP2D6*41	tramadol	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*4; CYP2D6*41	tramadol	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*56	dextromethorphan	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*56	dextromethorphan	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*56	dextromethorphan	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*1x2; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*4x2; CYP2D6*5; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*35; CYP2D6*41	dextromethorphan	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1x2; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*4x2; CYP2D6*5; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*35; CYP2D6*41	dextromethorphan	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1x2; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*4x2; CYP2D6*5; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*35; CYP2D6*41	dextromethorphan	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*6; CYP2D6*41	gefitinib	CYP2D6	< 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*6; CYP2D6*41	gefitinib	CYP2D6	< 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*6; CYP2D6*41	gefitinib	CYP2D6	< 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*11	tamoxifen	CYP2D6	=  0.009	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	metoprolol	CYP2D6	< 0.0001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	metoprolol	CYP2D6	< 0.0001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	metoprolol	CYP2D6	< 0.0001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*41	paroxetine	CYP2D6	= 0.87	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*41	paroxetine	CYP2D6	= 0.87	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*41	paroxetine	CYP2D6	= 0.87	Toxicity	G/A	Intermedia
+CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*17	dextromethorphan	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	doxepin	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4	doxepin	CYP2D6		Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*4	doxepin	CYP2D6		Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6; CYP2D6*7	dextromethorphan	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6; CYP2D6*7	dextromethorphan	CYP2D6	< 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6; CYP2D6*7	dextromethorphan	CYP2D6	< 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	endoxifen	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	endoxifen	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	endoxifen	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*41	4-hydroxytamoxifen; N-desmethyltamoxifen; tamoxifen	CYP2D6	> 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*41	4-hydroxytamoxifen; N-desmethyltamoxifen; tamoxifen	CYP2D6	> 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*41	4-hydroxytamoxifen; N-desmethyltamoxifen; tamoxifen	CYP2D6	> 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	citalopram	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4	citalopram	CYP2D6		Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*4	citalopram	CYP2D6		Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	zuclopenthixol	CYP2D6	= 0.03	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	zuclopenthixol	CYP2D6	= 0.03	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	zuclopenthixol	CYP2D6	= 0.03	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	risperidone	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	risperidone	CYP2D6	< 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*41	risperidone	CYP2D6	< 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*41	endoxifen	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*41	endoxifen	CYP2D6	< 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*41	endoxifen	CYP2D6	< 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	dolasetron	CYP2D6	= 0.99	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.007	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.007	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.007	Efficacy	G/A	Positiva
+CYP2D6*4; CYP2D6*5	desipramine; imipramine	CYP2D6	< 0.0001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*14	antipsychotics	CYP2D6	= 0.021	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*14	antipsychotics	CYP2D6	= 0.021	Toxicity	G/G	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*14	antipsychotics	CYP2D6	= 0.021	Toxicity	G/A	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7	oxycodone	CYP2D6	= 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7	oxycodone	CYP2D6	= 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7	oxycodone	CYP2D6	= 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*33	methadone	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*33	methadone	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*33	methadone	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*4	dextromethorphan	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.413	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.413	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*41	antineoplastic agents; tamoxifen	CYP2D6	= 0.413	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5	paroxetine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*5	paroxetine	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*5	paroxetine	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6; CYP2D6*9	tramadol	CYP2D6		Dosage	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6; CYP2D6*9	tramadol	CYP2D6		Dosage	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6; CYP2D6*9	tramadol	CYP2D6		Dosage	G/A	Positiva
+CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	amitriptyline; antidepressants; clomipramine; desipramine; fluoxetine; imipramine; nortriptyline; paroxetine; venlafaxine	CYP2D6	< 0.05	Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*4	citalopram	CYP2D6		Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	citalopram	CYP2D6		Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	citalopram	CYP2D6		Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*10	sparteine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*10	sparteine	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*10	sparteine	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	nortriptyline	CYP2D6	< 0.0001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	nortriptyline	CYP2D6	< 0.0001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	nortriptyline	CYP2D6	< 0.0001	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	risperidone	CYP2D6	= 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*4	risperidone	CYP2D6	= 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*4	risperidone	CYP2D6	= 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*4	paroxetine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	clomipramine	CYP2D6	> 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	clomipramine	CYP2D6	> 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	clomipramine	CYP2D6	> 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*41		CYP2D6	= 0.237	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*41		CYP2D6	= 0.237	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*41		CYP2D6	= 0.237	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	venlafaxine	CYP2D6	= 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	venlafaxine	CYP2D6	= 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	venlafaxine	CYP2D6	= 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*17; CYP2D6*41	endoxifen	CYP2D6	< 0.00069	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*17; CYP2D6*41	endoxifen	CYP2D6	< 0.00069	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*17; CYP2D6*41	endoxifen	CYP2D6	< 0.00069	Metabolism/PK	G/A	Intermedia
+CYP2D6*3; CYP2D6*4; CYP2D6*4xN; CYP2D6*6; CYP2D6*40	dextromethorphan	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*4	venlafaxine	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7	oxycodone	CYP2D6	< 0.001	Dosage	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7	oxycodone	CYP2D6	< 0.001	Dosage	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7	oxycodone	CYP2D6	< 0.001	Dosage	G/A	Positiva
+CYP2D6*4; CYP2D6*4x2; CYP2D6*36	dextromethorphan	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*41	tafenoquine	CYP2D6	= 0.57	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*41	tafenoquine	CYP2D6	= 0.57	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*41	tafenoquine	CYP2D6	= 0.57	Efficacy	G/A	Positiva
+CYP2D6*4	opioids	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	4-hydroxytamoxifen; N-desmethyltamoxifen; tamoxifen	CYP2D6	> 0.05	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	4-hydroxytamoxifen; N-desmethyltamoxifen; tamoxifen	CYP2D6	> 0.05	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	4-hydroxytamoxifen; N-desmethyltamoxifen; tamoxifen	CYP2D6	> 0.05	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6; CYP2D6*9	tramadol	CYP2D6	= 0.02	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6; CYP2D6*9	tramadol	CYP2D6	= 0.02	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*6; CYP2D6*9	tramadol	CYP2D6	= 0.02	Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	risperidone	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	risperidone	CYP2D6		Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	risperidone	CYP2D6		Metabolism/PK	G/A	Intermedia
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.005	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.005	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.005	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	trimipramine	CYP2D6	< 0.001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	trimipramine	CYP2D6	< 0.001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	trimipramine	CYP2D6	< 0.001	Metabolism/PK	G/A	Intermedia
+CYP2D6*4; CYP2D6*12	sparteine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*4; CYP2D6*15	debrisoquine; dextromethorphan	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*4	fluvastatin; simvastatin	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	endoxifen	CYP2D6	= 0.0001	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	endoxifen	CYP2D6	= 0.0001	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	endoxifen	CYP2D6	= 0.0001	Metabolism/PK	G/A	Intermedia
+CYP2D6*4	hydromorphone; ketorolac; morphine; opioids; oxycodone	CYP2D6		Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5	imipramine	CYP2D6	< 0.0001	Dosage	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5	imipramine	CYP2D6	< 0.0001	Dosage	G/G	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5	imipramine	CYP2D6	< 0.0001	Dosage	G/A	Positiva
+CYP2D6*4	promethazine	CYP2D6		Toxicity	A/A	Positiva
+CYP2D6*1; CYP2D6*3; CYP2D6*4	amitriptyline; propranolol; topiramate; valproic acid	CYP2D6	= 0.288	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*3; CYP2D6*4	amitriptyline; propranolol; topiramate; valproic acid	CYP2D6	= 0.288	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*3; CYP2D6*4	amitriptyline; propranolol; topiramate; valproic acid	CYP2D6	= 0.288	Efficacy	G/A	Positiva
+CYP2D6*4	amitriptyline	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*41	primaquine	CYP2D6	= 0.05	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*41	primaquine	CYP2D6	= 0.05	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*9; CYP2D6*10; CYP2D6*41	primaquine	CYP2D6	= 0.05	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4; CYP2D6*10	escitalopram	CYP2D6		Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4; CYP2D6*10	escitalopram	CYP2D6		Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4; CYP2D6*10	escitalopram	CYP2D6		Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*41		CYP2D6	< 0.0001	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*41		CYP2D6	< 0.0001	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35; CYP2D6*41		CYP2D6	< 0.0001	Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*6	methadone	CYP2D6	= 0.131	Dosage,Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*6	methadone	CYP2D6	= 0.131	Dosage,Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*6	methadone	CYP2D6	= 0.131	Dosage,Efficacy	G/A	Positiva
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.082	Efficacy	A/A	Negativa
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.082	Efficacy	G/G	Intermedia
+CYP2D6*1; CYP2D6*4	tamoxifen	CYP2D6	= 0.082	Efficacy	G/A	Positiva
+CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	debrisoquine	CYP2D6		Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	endoxifen	CYP2D6	< 0.00069	Metabolism/PK	A/A	Negativa
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	endoxifen	CYP2D6	< 0.00069	Metabolism/PK	G/G	Positiva
+CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	endoxifen	CYP2D6	< 0.00069	Metabolism/PK	G/A	Intermedia

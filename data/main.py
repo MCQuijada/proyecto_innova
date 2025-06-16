@@ -1,7 +1,5 @@
 from procesador_datos import ProcesadorDatos
 from recomendador_ia import RecomendadorIA
-import pandas as pd
-import re
 import os
 
 def validar_genotipo(genotipo: str, gen: str) -> bool:
@@ -53,12 +51,70 @@ def obtener_genotipo(gen: str) -> str:
 
 def mostrar_recomendaciones(recomendaciones, titulo):
     """Muestra las recomendaciones de forma clara y detallada."""
+    # Mapeo de evaluaciones a fenotipos según el tipo de evaluación y gen
+    evaluacion_a_fenotipo = {
+        'Positiva': {
+            'CYP2D6': {
+                'metabolizacion': 'Metabolizador Normal',
+                'toxicidad': 'Baja toxicidad',
+                'eficiencia': 'Alta eficiencia'
+            },
+            'CYP2C19': {
+                'metabolizacion': 'Metabolizador Normal',
+                'toxicidad': 'Baja toxicidad',
+                'eficiencia': 'Alta eficiencia'
+            }
+        },
+        'Intermedia': {
+            'CYP2D6': {
+                'metabolizacion': 'Metabolizador Intermedio',
+                'toxicidad': 'Toxicidad moderada',
+                'eficiencia': 'Eficiencia moderada'
+            },
+            'CYP2C19': {
+                'metabolizacion': 'Metabolizador Intermedio',
+                'toxicidad': 'Toxicidad moderada',
+                'eficiencia': 'Eficiencia moderada'
+            }
+        },
+        'Negativa': {
+            'CYP2D6': {
+                'metabolizacion': 'Metabolizador Lento',
+                'toxicidad': 'Alta toxicidad',
+                'eficiencia': 'Baja eficiencia'
+            },
+            'CYP2C19': {
+                'metabolizacion': 'Metabolizador Lento',
+                'toxicidad': 'Alta toxicidad',
+                'eficiencia': 'Baja eficiencia'
+            }
+        }
+    }
+    
+    # Función para determinar el tipo de evaluación basado en el fármaco y gen
+    def determinar_tipo_evaluacion(farmaco, gen, evaluacion):
+        # Por defecto, asumimos metabolización
+        tipo = 'metabolizacion'
+        
+        # Lista de fármacos donde la toxicidad es el factor principal
+        farmacos_toxicidad = ['Clozapina', 'Haloperidol', 'Risperidona']
+        # Lista de fármacos donde la eficiencia es el factor principal
+        farmacos_eficiencia = ['Fluoxetina', 'Paroxetina', 'Sertralina']
+        
+        if farmaco in farmacos_toxicidad:
+            tipo = 'toxicidad'
+        elif farmaco in farmacos_eficiencia:
+            tipo = 'eficiencia'
+            
+        return tipo
+    
     print(f"\n{titulo}")
     print("=" * 80)
     
     for i, rec in enumerate(recomendaciones, 1):
         print(f"\n{i}. {rec['farmaco']}")
         print(f"   Puntuación final: {rec['puntuacion']:.2f}")
+        print(f"   Porcentaje de éxito: {rec['porcentaje_exito']:.1f}%")
         
         # Mostrar resumen de genes donde se encontró el fármaco
         genes_presentes = []
@@ -72,41 +128,32 @@ def mostrar_recomendaciones(recomendaciones, titulo):
         print("\n   Detalles por gen:")
         for gen in genes_presentes:
             predicciones = rec['predicciones'].get(gen, {})
+            
             if predicciones:
-                # Calcular evaluación más común y confianza promedio
-                evaluaciones = []
-                confianzas = []
-                p_values = []
-                for modelo, pred in predicciones.items():
-                    if pred and 'evaluacion' in pred and 'confianza' in pred:
-                        evaluaciones.append(pred['evaluacion'])
-                        confianzas.append(pred['confianza'])
-                        p_values.append(pred.get('p_value', 0.5))
+                print(f"\n   {gen}:")
+                evaluacion = predicciones['evaluacion']
+                tipo_eval = determinar_tipo_evaluacion(rec['farmaco'], gen, evaluacion)
                 
-                if evaluaciones:
-                    eval_mas_comun = max(set(evaluaciones), key=evaluaciones.count)
-                    confianza_promedio = sum(confianzas) / len(confianzas)
-                    p_value_promedio = sum(p_values) / len(p_values)
-                    
-                    print(f"\n   {gen}:")
-                    print(f"      Evaluación: {eval_mas_comun}")
-                    print(f"      Confianza promedio: {confianza_promedio:.2f}")
-                    print(f"      P-value promedio: {p_value_promedio:.3f}")
-                    
-                    # Indicar nivel de significancia según la nueva escala
-                    if p_value_promedio < 0.001:
-                        print("      Significancia: Máxima (p < 0.001)")
-                    elif p_value_promedio < 0.01:
-                        print("      Significancia: Alta (p < 0.01)")
-                    elif p_value_promedio < 0.05:
-                        print("      Significancia: Moderada Alta (p < 0.05)")
-                    elif p_value_promedio < 0.1:
-                        print("      Significancia: Moderada (p < 0.1)")
-                    else:
-                        print("      Significancia: Baja (p >= 0.1)")
-                    
-                    if confianza_promedio < 0.5:
-                        print("      ⚠️  Advertencia: Baja confianza en la predicción")
+                # Obtener el fenotipo específico para el gen y tipo de evaluación
+                fenotipo = evaluacion_a_fenotipo.get(evaluacion, {}).get(gen, {}).get(tipo_eval, evaluacion)
+                print(f"      Evaluación: {evaluacion} ({fenotipo})")
+                print(f"      Confianza: {predicciones['confianza']:.2f}")
+                
+                # Indicar nivel de significancia según el p-value
+                p_value = predicciones['p_value']
+                if p_value < 0.001:
+                    print("      Significancia: Máxima (p < 0.001)")
+                elif p_value < 0.01:
+                    print("      Significancia: Alta (p < 0.01)")
+                elif p_value < 0.05:
+                    print("      Significancia: Moderada Alta (p < 0.05)")
+                elif p_value < 0.1:
+                    print("      Significancia: Moderada (p < 0.1)")
+                else:
+                    print("      Significancia: Baja (p >= 0.1)")
+                
+                if predicciones['confianza'] < 0.5:
+                    print("      ⚠️  Advertencia: Baja confianza en la predicción")
         
         print("-" * 80)
 
@@ -169,17 +216,9 @@ def main():
             print("\nError: No se pudieron cargar los datos")
             return
     
-    # Inicializar y entrenar el recomendador de IA
+    # Inicializar el recomendador de IA
     print("\n=== INICIALIZANDO RECOMENDADOR DE IA ===")
     recomendador = RecomendadorIA()
-    
-    # Verificar si ya existen modelos entrenados
-    try:
-        recomendador.cargar_modelos()
-        print("\nModelos cargados exitosamente")
-    except:
-        print("\nEntrenando nuevos modelos...")
-        recomendador.entrenar_modelos()
     
     # Solicitar genotipos al usuario
     print("\n=== INGRESO DE GENOTIPOS ===")
