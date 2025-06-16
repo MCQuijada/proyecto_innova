@@ -1,0 +1,39 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Ingreso de datos</title>
+    <link rel="stylesheet" href="{% static 'plataforma/style.css' %}">
+</head>
+<body>
+
+    <h1>Ingreso de datos</h1>
+
+    <form action="{% url 'plataforma' %}" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+
+        <div>
+            <label for="test_genetico">Ingresar test_genetico</label><br>
+            <input type="file" name="test_genetico" id="test_genetico" required><br>
+            <span>Archivo que contiene la información genética del paciente.</span>
+        </div>
+
+        <br>
+
+        <div>
+            <label for="datos_clinicos">Ingresar datos clínicos</label><br>
+            <input type="file" name="datos_clinicos" id="datos_clinicos" required><br>
+            <span>Archivo con el historial clínico y datos médicos relevantes.</span>
+        </div>
+
+        <br>
+
+        <div>
+            <button type="submit">Predecir</button>
+        </div>
+
+    </form>
+
+</body>
+</html>
