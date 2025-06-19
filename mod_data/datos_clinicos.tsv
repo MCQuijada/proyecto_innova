@@ -1,0 +1,158 @@
+PharmGKB ID	Level	Variant	Gene	Drugs	Phenotype Categories	Phenotype	Pediatric
+1448573523	3	CYP2C19*1; CYP2C19*2; CYP2C19*17	CYP2C19	3,4-methylenedioxymethamphetamine	Metabolism/PK		False
+1451905420	3	CYP2C19*1; CYP2C19*2; CYP2C19*3	CYP2C19	sulfonamides, urea derivatives	Efficacy	Diabetes Mellitus, Type 2	False
+1451282440	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3; CYP2C19*4; CYP2C19*5; CYP2C19*6; CYP2C19*8; CYP2C19*17	CYP2C19	clopidogrel	Efficacy,Toxicity	Acute coronary syndrome; Cardiovascular Disease; Stroke; Transient Ischemic Attack	False
+1451139061	3	CYP2C19*1; CYP2C19*2	CYP2C19	dipyrone	Metabolism/PK		False
+1183689217	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3; CYP2C19*17	CYP2C19	voriconazole	Metabolism/PK		True
+981202551	3	rs4244285	CYP2C19	cyclophosphamide; doxorubicin	Efficacy	Breast Neoplasms	False
+1447991104	3	CYP2C19*1; CYP2C19*2; CYP2C19*3	CYP2C19	brivaracetam	Metabolism/PK		False
+1448122847	3	CYP2C19*1; CYP2C19*2; CYP2C19*3	CYP2C19	warfarin	Dosage	Atrial Fibrillation	False
+1449718271	3	rs4244285	CYP2C19	cyclophosphamide; doxorubicin; fluorouracil	Toxicity	Breast Neoplasms	False
+1451282840	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3; CYP2C19*4	CYP2C19	citalopram	Toxicity	Depressive Disorder	False
+982040598	3	rs4244285	CYP2C19	prasugrel	Efficacy	Acute coronary syndrome	False
+1451716760	4	CYP2C19*1; CYP2C19*2; CYP2C19*3; CYP2C19*17	CYP2C19	citalopram	Efficacy	Major Depressive Disorder; Obsessive-Compulsive Disorder	False
+1448573512	3	CYP2C19*1; CYP2C19*2; CYP2C19*17	CYP2C19	3,4-methylenedioxymethamphetamine	Toxicity		False
+1451245600	3	CYP2C19*1; CYP2C19*2; CYP2C19*3	CYP2C19	clobazam	Efficacy	Epilepsy	False
+1450806874	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3; CYP2C19*8; CYP2C19*9; CYP2C19*17	CYP2C19	lansoprazole	Metabolism/PK	Gastroesophageal Reflux	True
+1451282340	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3; CYP2C19*17	CYP2C19	clopidogrel	Efficacy	Cardiovascular Disease	False
+1444842040	4	CYP2C19*1; CYP2C19*2	CYP2C19	carisoprodol	Metabolism/PK		False
+1183624491	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3; CYP2C19*17	CYP2C19	pantoprazole	Metabolism/PK		True
+1183688999	3	CYP2C19*1; CYP2C19*2; CYP2C19*3	CYP2C19	diazepam	Metabolism/PK		False
+1183620386	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3; CYP2C19*17	CYP2C19	citalopram	Metabolism/PK	Depressive Disorder; Major Depressive Disorder	False
+1183619004	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3; CYP2C19*17	CYP2C19	sertraline	Metabolism/PK	Mental Disorders	False
+1183629373	2A	CYP2C19*1; CYP2C19*2; CYP2C19*3	CYP2C19	rabeprazole	Metabolism/PK		False
+1183617854	1A	CYP2C19*1; CYP2C19*2	CYP2C19	doxepin	Metabolism/PK		False
+1184987411	3	CYP2C19*1; CYP2C19*2	CYP2C19	bupropion	Other		False
+1451245620	3	CYP2C19*1; CYP2C19*2; CYP2C19*3	CYP2C19	clobazam	Dosage	Epilepsy	False
+1451282740	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3; CYP2C19*17	CYP2C19	escitalopram	Metabolism/PK	Major Depressive Disorder; Mental Disorders	False
+1447962874	3	rs4244285	CYP2C19	nelfinavir	Metabolism/PK	HIV infectious disease; Pancreatic Neoplasms	False
+1183616699	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3; CYP2C19*17	CYP2C19	clomipramine	Metabolism/PK	Mental Disorders	False
+1444695339	3	CYP2C19*1; CYP2C19*2; CYP2C19*3	CYP2C19	clobazam	Metabolism/PK	Epilepsy	True
+1183617714	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3; CYP2C19*17	CYP2C19	amitriptyline	Metabolism/PK	Major Depressive Disorder; Mental Disorders	False
+1183624499	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3	CYP2C19	pantoprazole	Efficacy	Helicobacter Infections; Ulcer	False
+1183680463	3	CYP2C19*1; CYP2C19*2; CYP2C19*3	CYP2C19	esomeprazole	Efficacy	Gastroesophageal Reflux; Helicobacter Infections	False
+1183617103	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3; CYP2C19*17	CYP2C19	imipramine	Metabolism/PK	Depressive Disorder; Major Depressive Disorder	False
+1451137080	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3	CYP2C19	dexlansoprazole	Metabolism/PK		False
+1183615435	3	CYP2C19*1; CYP2C19*2	CYP2C19	tacrolimus	Efficacy	Kidney Transplantation	False
+1183693382	3	CYP2C19*1; CYP2C19*2; CYP2C19*3	CYP2C19	icotinib	Other		False
+1444703063	3	rs4244285	CYP2C19	venlafaxine	Toxicity	Depression	False
+1451253200	4	CYP2C19*1; CYP2C19*2	CYP2C19	venlafaxine	Efficacy		False
+1043858794	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3; CYP2C19*8; CYP2C19*10; CYP2C19*17; CYP2C19*19; CYP2C19*25; CYP2C19*26	CYP2C19	clopidogrel	Metabolism/PK		False
+1183615450	3	CYP2C19*1; CYP2C19*2	CYP2C19	tacrolimus	Dosage	Kidney Transplantation	False
+1183629403	3	CYP2C19*1; CYP2C19*2; CYP2C19*3	CYP2C19	esomeprazole	Metabolism/PK		False
+1451229400	4	CYP2C19*1; CYP2C19*2; CYP2C19*3	CYP2C19	methadone	Metabolism/PK		False
+1183630036	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3	CYP2C19	omeprazole	Efficacy	Esophagitis; Gastroesophageal Reflux; Helicobacter Infections; Peptic Ulcer Disease	False
+1448265356	4	CYP2C19*1; CYP2C19*2; CYP2C19*3	CYP2C19	valproic acid	Toxicity	Epilepsy	True
+1183629796	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3	CYP2C19	lansoprazole	Efficacy	Gastroesophageal Reflux; Helicobacter Infections	False
+1183621987	1A	CYP2C19*1; CYP2C19*2	CYP2C19	trimipramine	Metabolism/PK		False
+1184754281	3	CYP2C19*1; CYP2C19*2; CYP2C19*16	CYP2C19	methylphenobarbital	Metabolism/PK		False
+1451132040	3	CYP2C19*1; CYP2C19*2; CYP2C19*17	CYP2C19	progesterone	Metabolism/PK		False
+1183624570	3	CYP2C19*1; CYP2C19*2; CYP2C19*3	CYP2C19	rabeprazole	Efficacy	Gastroesophageal Reflux; Helicobacter Infections; Peptic Ulcer Disease	False
+1183682421	3	CYP2C19*2	CYP2C19	venlafaxine	Metabolism/PK	Depression	False
+1444703076	3	rs4244285	CYP2C19	etravirine	Metabolism/PK	HIV infectious disease	False
+1444695653	3	CYP2C19*1; CYP2C19*2; CYP2C19*3; CYP2C19*5; CYP2C19*6; CYP2C19*7; CYP2C19*8	CYP2C19	mephenytoin	Metabolism/PK		False
+1447813554	3	CYP2C19*1; CYP2C19*2; CYP2C19*17	CYP2C19	tamoxifen	Efficacy,Metabolism/PK	Breast Neoplasms	False
+981202562	3	rs4244285	CYP2C19	cyclophosphamide	Toxicity	Systemic lupus erythematosus	False
+1183630065	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3; CYP2C19*9; CYP2C19*10; CYP2C19*17; CYP2C19*24; CYP2C19*26	CYP2C19	omeprazole	Metabolism/PK	Gastroesophageal Reflux	True
+1444680145	3	rs12248560	CYP2C19	busulfan	Metabolism/PK	Hematopoietic stem cell transplantation	True
+1449718265	3	rs12248560	CYP2C19	cyclophosphamide; doxorubicin; fluorouracil	Toxicity	Breast Neoplasms	False
+1449751564	3	rs12248560	CYP2C19	phenazepam	Efficacy	Alcohol abuse	False
+655387767	3	rs12248560	CYP2C19	mephenytoin	Dosage		False
+1444700788	3	CYP2C19*1; CYP2C19*17	CYP2C19	prasugrel	Toxicity	Acute coronary syndrome	False
+655386913	3	CYP2C19*1; CYP2C19*17	CYP2C19	clopidogrel	Toxicity	Acute coronary syndrome; Coronary Artery Disease; Hemorrhage; Myocardial Infarction	False
+1183621261	1A	CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*14; CYP2D6*41	CYP2D6	paroxetine	Metabolism/PK		True
+1451332611	1A	CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	CYP2D6	desipramine	Toxicity	Depressive Disorder; Major Depressive Disorder	False
+1184757151	1B	CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*4x2; CYP2D6*4xN; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*10x2; CYP2D6*13; CYP2D6*14; CYP2D6*15; CYP2D6*17; CYP2D6*18; CYP2D6*21; CYP2D6*29; CYP2D6*31; CYP2D6*36; CYP2D6*40; CYP2D6*41; CYP2D6*42; CYP2D6*44; CYP2D6*49; CYP2D6*52; CYP2D6*55; CYP2D6*56; CYP2D6*59; CYP2D6*69; CYP2D6*84; CYP2D6*100; CYP2D6*101	CYP2D6	dextromethorphan	Metabolism/PK		True
+1451141882	1A	CYP2D6*1; CYP2D6*2; CYP2D6*4; CYP2D6*5; CYP2D6*17; CYP2D6*41	CYP2D6	hydrocodone	Metabolism/PK		True
+982014094	1A	CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*35xN	CYP2D6	ondansetron	Efficacy	Vomiting	False
+1451253260	1A	CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*81	CYP2D6	venlafaxine	Toxicity	Agitation; Alcohol-Related Disorders; Cardiotoxicity; Depression; Depressive Disorder; Drug Toxicity; dysphoria; Edema; Major Depressive Disorder; Nausea; Obsessive-Compulsive Disorder; Tachycardia; Vomiting	False
+1451420300	3	CYP2D6*4; CYP2D6*5	CYP2D6	atomoxetine; methylphenidate	Metabolism/PK		False
+1451265560	1A	CYP2D6*1; CYP2D6*1xN; CYP2D6*2xN; CYP2D6*4; CYP2D6*5	CYP2D6	imipramine	Dosage	Depressive Disorder	False
+655385352	3	rs3892097	CYP2D6	metoprolol	Efficacy		False
+1183689492	3	CYP2D6*1; CYP2D6*3; CYP2D6*4	CYP2D6	olanzapine	Toxicity	Schizophrenia; Weight gain	False
+1451288220	1A	CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*17; CYP2D6*40	CYP2D6	codeine	Efficacy	Pain	True
+1183620242	4	CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*17; CYP2D6*41	CYP2D6	citalopram	Toxicity	Major Depressive Disorder	False
+1183616940	1A	CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	CYP2D6	imipramine	Metabolism/PK	Major Depressive Disorder; Mental Disorders	False
+1451397920	3	CYP2D6*1; CYP2D6*4	CYP2D6	sertraline	Dosage	Depression	False
+1183690410	3	CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	CYP2D6	timolol	Other		False
+982037423	1A	CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10	CYP2D6	venlafaxine	Metabolism/PK	Depressive Disorder; Obsessive-Compulsive Disorder	False
+1184511154	3	CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	CYP2D6	donepezil	Other	Alzheimer Disease	False
+1451265448	1A	CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	CYP2D6	imipramine	Toxicity	Depressive Disorder	False
+982029857	1A	CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*35; CYP2D6*41	CYP2D6	tamoxifen	Metabolism/PK	Breast Neoplasms	False
+1183618725	1A	CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*17	CYP2D6	nortriptyline	Metabolism/PK	Major Depressive Disorder	False
+1444665904	1A	CYP2D6*1; CYP2D6*4; CYP2D6*10	CYP2D6	vortioxetine	Metabolism/PK		False
+1451418281	3	CYP2D6*1; CYP2D6*4	CYP2D6	citalopram	Dosage		False
+1450929867	1A	CYP2D6*1; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10	CYP2D6	tropisetron	Metabolism/PK		False
+1450415170	1A	CYP2D6*1; CYP2D6*4	CYP2D6	metoprolol	Dosage	Heart Failure	False
+1451155020	1A	CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*41	CYP2D6	tramadol	Metabolism/PK		True
+1446899209	3	CYP2D6*1; CYP2D6*4	CYP2D6	maprotiline; opipramol	Dosage,Toxicity	Depression	False
+1183700410	1A	CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*14	CYP2D6	fluvoxamine	Metabolism/PK	Depressive Disorder	False
+1183617979	2A	CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7	CYP2D6	oxycodone	Metabolism/PK	Pain	False
+1183689914	3	CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10	CYP2D6	tolterodine	Metabolism/PK		False
+1451409080	3	CYP2D6*1; CYP2D6*3; CYP2D6*4	CYP2D6	atorvastatin	Efficacy		False
+1451152965	3	CYP2D6*1; CYP2D6*4	CYP2D6	dihydrocodeine	Metabolism/PK		False
+1451152706	3	CYP2D6*1; CYP2D6*4	CYP2D6	ethylmorphine	Metabolism/PK		False
+1451259580	1A	CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	CYP2D6	amitriptyline	Toxicity	Depressive Disorder	False
+1451282240	1A	CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*6	CYP2D6	atomoxetine	Toxicity	Attention Deficit Disorder with Hyperactivity	False
+1447678472	3	CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*10; CYP2D6*14	CYP2D6	antipsychotics	Toxicity	Dystonia	False
+1183616718	1A	CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*36; CYP2D6*41	CYP2D6	codeine	Metabolism/PK		True
+1451323205	4	CYP2D6*1; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*6	CYP2D6	oxycodone	Toxicity	CNS depression; Drug Toxicity	True
+1447681932	1A	CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*29; CYP2D6*31; CYP2D6*35; CYP2D6*41	CYP2D6	metoprolol	Metabolism/PK	Hypertension	False
+1451152827	3	CYP2D6*1; CYP2D6*3; CYP2D6*4	CYP2D6	oxycodone	Toxicity	Opioid-Related Disorders	False
+1451323336	4	CYP2D6*1; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*6	CYP2D6	oxycodone	Efficacy	Pain	False
+1183624646	3	CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*17	CYP2D6	fluoxetine	Metabolism/PK	Major Depressive Disorder; Mental Disorders	True
+1183617478	1A	CYP2D6*1; CYP2D6*3; CYP2D6*4	CYP2D6	zuclopenthixol	Metabolism/PK	Schizophrenia	False
+1451152821	3	CYP2D6*1; CYP2D6*3; CYP2D6*4	CYP2D6	codeine	Toxicity	Opioid-Related Disorders	False
+1451409101	3	CYP2D6*1; CYP2D6*3; CYP2D6*4	CYP2D6	rosuvastatin	Efficacy		False
+1183619037	3	CYP2D6*1; CYP2D6*4	CYP2D6	Selective serotonin reuptake inhibitors	Dosage	Depression	False
+1183621726	1A	CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*21; CYP2D6*36	CYP2D6	flecainide	Metabolism/PK	Cardiac rhythm disease	False
+1451153963	3	CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*6	CYP2D6	methadone	Efficacy	Heroin Dependence; Opioid-Related Disorders	False
+1444607565	3	CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*41	CYP2D6	galantamine	Metabolism/PK	Dementia	False
+1183631061	1A	CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*17	CYP2D6	haloperidol	Metabolism/PK	Schizophrenia	True
+1451154980	1A	CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*17	CYP2D6	tramadol	Efficacy	Pain; Pain, Postoperative	False
+1449717812	3	CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*10	CYP2D6	carvedilol	Dosage	Heart Failure	False
+1043859430	1A	CYP2D6*1; CYP2D6*1xN; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*9; CYP2D6*10; CYP2D6*35; CYP2D6*35xN; CYP2D6*41	CYP2D6	doxepin	Metabolism/PK		False
+1183619154	2A	CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	CYP2D6	mirtazapine	Metabolism/PK		False
+1183622099	1A	CYP2D6*1; CYP2D6*2; CYP2D6*2xN; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10	CYP2D6	desipramine	Metabolism/PK	Major Depressive Disorder; Mental Disorders	False
+1451152801	3	CYP2D6*1; CYP2D6*3; CYP2D6*4	CYP2D6	hydrocodone	Toxicity	Opioid-Related Disorders	False
+1183621997	1A	CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*14	CYP2D6	risperidone	Metabolism/PK	Psychotic Disorder; Schizophrenia	True
+1451409120	3	CYP2D6*1; CYP2D6*3; CYP2D6*4	CYP2D6	simvastatin	Efficacy		False
+1184755711	3	CYP2D6*1; CYP2D6*2; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*8; CYP2D6*10; CYP2D6*11; CYP2D6*12; CYP2D6*18; CYP2D6*35xN; CYP2D6*41; CYP2D6*59; CYP2D6*62	CYP2D6	sparteine	Metabolism/PK		False
+1183618159	2A	CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10	CYP2D6	tramadol	Dosage	Pain	False
+1451409127	3	CYP2D6*1; CYP2D6*4	CYP2D6	fluvastatin	Efficacy		False
+1183621866	1A	CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	CYP2D6	trimipramine	Metabolism/PK	Mental Disorders	False
+1451153940	3	CYP2D6*1; CYP2D6*1xN; CYP2D6*2xN; CYP2D6*3; CYP2D6*4; CYP2D6*6	CYP2D6	methadone	Dosage	Heroin Dependence; Opioid-Related Disorders	False
+1043859155	1A	CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	CYP2D6	clomipramine	Metabolism/PK	Major Depressive Disorder; Mental Disorders	False
+1447983909	3	CYP2D6*1; CYP2D6*4; CYP2D6*5	CYP2D6	tolperisone	Metabolism/PK		False
+1451208340	3	CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*9; CYP2D6*10; CYP2D6*17; CYP2D6*41	CYP2D6	ketoprofen; tramadol	Toxicity		False
+1184756979	3	CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*6; CYP2D6*8; CYP2D6*9; CYP2D6*15; CYP2D6*17; CYP2D6*18; CYP2D6*21; CYP2D6*29; CYP2D6*38	CYP2D6	debrisoquine	Metabolism/PK		False
+1451418220	3	CYP2D6*1; CYP2D6*4; CYP2D6*10	CYP2D6	citalopram	Metabolism/PK		False
+1183619068	1A	CYP2D6*1; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	CYP2D6	aripiprazole	Metabolism/PK	Psychotic Disorder; Schizoaffective disorder; Schizophrenia	False
+1451285360	1A	CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10	CYP2D6	nortriptyline	Toxicity	Depressive Disorder	False
+1183615480	3	CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10	CYP2D6	carvedilol	Metabolism/PK	Heart Diseases	False
+1451265780	1A	CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	CYP2D6	clomipramine	Toxicity	Major Depressive Disorder	False
+1451285240	1A	CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*7; CYP2D6*9; CYP2D6*10; CYP2D6*10x2; CYP2D6*11; CYP2D6*17; CYP2D6*21; CYP2D6*36; CYP2D6*41	CYP2D6	tamoxifen	Efficacy	Breast Neoplasms	False
+1183689079	1A	CYP2D6*1; CYP2D6*4; CYP2D6*4xN; CYP2D6*5; CYP2D6*10; CYP2D6*17; CYP2D6*92; CYP2D6*96	CYP2D6	atomoxetine	Metabolism/PK	Attention Deficit Disorder with Hyperactivity	True
+1451153920	3	CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*6	CYP2D6	methadone	Metabolism/PK		False
+1183617651	1A	CYP2D6*1; CYP2D6*1xN; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*41	CYP2D6	amitriptyline	Metabolism/PK	Depressive Disorder; Mental Disorders	False
+1452050380	3	rs6311	HTR2A	paroxetine	Toxicity	Depression; Major Depressive Disorder	False
+1444607768	4	rs6311	HTR2A	fluvoxamine	Toxicity	Major Depressive Disorder	False
+1452044040	4	rs6311	HTR2A	escitalopram	Efficacy	Major Depressive Disorder	False
+1450931583	3	rs6311	HTR2A	citalopram	Toxicity	Major Depressive Disorder; Nausea; Vomiting	False
+1452043240	4	rs6311	HTR2A	fluoxetine	Efficacy		True
+1452043786	4	rs6311	HTR2A	venlafaxine	Efficacy	Major Depressive Disorder	False
+1452050340	4	rs6311	HTR2A	fluoxetine	Toxicity	Major Depressive Disorder	False
+1452050405	4	rs6311	HTR2A	sertraline	Efficacy	Major Depressive Disorder	False
+1452044060	4	rs6311	HTR2A	citalopram	Efficacy	Major Depressive Disorder	False
+1451760600	3	rs6311	HTR2A	Selective serotonin reuptake inhibitors	Toxicity	Diarrhea; Diminished ability to concentrate; Dizziness; Major Depressive Disorder; Tremor	False
+1451416400	4	rs6311	HTR2A	antidepressants	Efficacy	Bipolar Disorder; Depression; Major Depressive Disorder	False
+1183704409	3	rs6311	HTR2A	antipsychotics	Efficacy	Tardive Dyskinesia	False
+655387237	3	rs6311	HTR2A	risperidone	Efficacy	Autism	True
+1451407348	4	rs6311	HTR2A	sertraline	Toxicity	Major Depressive Disorder; Physiological sexual disorder	False
+1452050260	4	rs6311	HTR2A	fluvoxamine	Efficacy	Major Depressive Disorder	False
+1451416408	3	rs6311	HTR2A	antidepressants	Toxicity	adverse events; Bipolar Disorder; Depression; Major Depressive Disorder	False
+1452043985	4	rs6311	HTR2A	paroxetine	Efficacy	Major Depressive Disorder; Obsessive-Compulsive Disorder	False
+1444700675	3	rs6311	HTR2A	escitalopram	Toxicity	Anxiety Disorders; Major Depressive Disorder	False
+1444705214	4	rs25531	SLC6A4	citalopram	Efficacy		False
+1451124280	3	rs25531	SLC6A4	ethanol	Toxicity	Alcohol abuse	False
+637879631	4	rs25531	SLC6A4	fluoxetine	Efficacy	Major Depressive Disorder	False

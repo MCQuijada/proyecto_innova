@@ -1,0 +1,1970 @@
+[
+  {
+    "farmaco": "escitalopram",
+    "puntuacion": 1.1121052631578947,
+    "porcentaje_exito": 74.14035087719299,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.2916666666666667,
+        "p_value": 0.0005
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5,
+        "p_value": 0.004
+      }
+    }
+  },
+  {
+    "farmaco": "cyclophosphamide",
+    "puntuacion": 1.06,
+    "porcentaje_exito": 70.66666666666667,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5,
+        "p_value": 0.0005
+      }
+    }
+  },
+  {
+    "farmaco": "clobazam",
+    "puntuacion": 1.06,
+    "porcentaje_exito": 70.66666666666667,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.23076923076923078,
+        "p_value": 5e-05
+      }
+    }
+  },
+  {
+    "farmaco": "tamoxifen",
+    "puntuacion": 1.06,
+    "porcentaje_exito": 70.66666666666667,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.42857142857142855,
+        "p_value": 0.03
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.8115942028985508,
+        "p_value": 0.016
+      }
+    }
+  },
+  {
+    "farmaco": "antineoplastic agents",
+    "puntuacion": 1.0439024390243903,
+    "porcentaje_exito": 69.59349593495935,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.052
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.8636363636363636,
+        "p_value": 0.016
+      }
+    }
+  },
+  {
+    "farmaco": "amitriptyline",
+    "puntuacion": 1.036122448979592,
+    "porcentaje_exito": 69.07482993197279,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.10526315789473684,
+        "p_value": 0.5
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.36363636363636365,
+        "p_value": 0.002
+      }
+    }
+  },
+  {
+    "farmaco": "prasugrel",
+    "puntuacion": 1.012,
+    "porcentaje_exito": 67.46666666666667,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.4444444444444444,
+        "p_value": 0.007
+      }
+    }
+  },
+  {
+    "farmaco": "diazepam",
+    "puntuacion": 1.012,
+    "porcentaje_exito": 67.46666666666667,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5,
+        "p_value": 0.009
+      }
+    }
+  },
+  {
+    "farmaco": "Respiratory System",
+    "puntuacion": 1.012,
+    "porcentaje_exito": 67.46666666666667,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.009
+      }
+    }
+  },
+  {
+    "farmaco": "olanzapine",
+    "puntuacion": 1.012,
+    "porcentaje_exito": 67.46666666666667,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.2,
+        "p_value": 0.0097
+      }
+    }
+  },
+  {
+    "farmaco": "oxycodone",
+    "puntuacion": 1.012,
+    "porcentaje_exito": 67.46666666666667,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5333333333333333,
+        "p_value": 0.001
+      }
+    }
+  },
+  {
+    "farmaco": "codeine",
+    "puntuacion": 1.012,
+    "porcentaje_exito": 67.46666666666667,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.2222222222222222,
+        "p_value": 0.008
+      }
+    }
+  },
+  {
+    "farmaco": "imipramine",
+    "puntuacion": 0.9889473684210526,
+    "porcentaje_exito": 65.9298245614035,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.25,
+        "p_value": 0.005
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.18181818181818182,
+        "p_value": 0.15
+      }
+    }
+  },
+  {
+    "farmaco": "voriconazole",
+    "puntuacion": 0.988,
+    "porcentaje_exito": 65.86666666666666,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.046875,
+        "p_value": 0.025
+      }
+    }
+  },
+  {
+    "farmaco": "lansoprazole",
+    "puntuacion": 0.988,
+    "porcentaje_exito": 65.86666666666666,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.7647058823529411,
+        "p_value": 0.01
+      }
+    }
+  },
+  {
+    "farmaco": "warfarin",
+    "puntuacion": 0.988,
+    "porcentaje_exito": 65.86666666666666,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5,
+        "p_value": 0.01
+      }
+    }
+  },
+  {
+    "farmaco": "rabeprazole",
+    "puntuacion": 0.988,
+    "porcentaje_exito": 65.86666666666666,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.7241379310344828,
+        "p_value": 0.0333
+      }
+    }
+  },
+  {
+    "farmaco": "ticagrelor",
+    "puntuacion": 0.988,
+    "porcentaje_exito": 65.86666666666666,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5,
+        "p_value": 0.027
+      }
+    }
+  },
+  {
+    "farmaco": "lacosamide",
+    "puntuacion": 0.988,
+    "porcentaje_exito": 65.86666666666666,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.25,
+        "p_value": 0.025
+      }
+    }
+  },
+  {
+    "farmaco": "tacrolimus",
+    "puntuacion": 0.988,
+    "porcentaje_exito": 65.86666666666666,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.6666666666666666,
+        "p_value": 0.0395
+      }
+    }
+  },
+  {
+    "farmaco": "bupropion",
+    "puntuacion": 0.988,
+    "porcentaje_exito": 65.86666666666666,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5,
+        "p_value": 0.025
+      }
+    }
+  },
+  {
+    "farmaco": "thalidomide",
+    "puntuacion": 0.988,
+    "porcentaje_exito": 65.86666666666666,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.01
+      }
+    }
+  },
+  {
+    "farmaco": "amoxicillin",
+    "puntuacion": 0.988,
+    "porcentaje_exito": 65.86666666666666,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.034
+      }
+    }
+  },
+  {
+    "farmaco": "sulfonamides, urea derivatives",
+    "puntuacion": 0.988,
+    "porcentaje_exito": 65.86666666666666,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.039
+      }
+    }
+  },
+  {
+    "farmaco": "tamsulosin",
+    "puntuacion": 0.988,
+    "porcentaje_exito": 65.86666666666666,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.025
+      }
+    }
+  },
+  {
+    "farmaco": "tramadol",
+    "puntuacion": 0.988,
+    "porcentaje_exito": 65.86666666666666,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.2857142857142857,
+        "p_value": 0.035
+      }
+    }
+  },
+  {
+    "farmaco": "simvastatin",
+    "puntuacion": 0.988,
+    "porcentaje_exito": 65.86666666666666,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.02
+      }
+    }
+  },
+  {
+    "farmaco": "anthracyclines and related substances",
+    "puntuacion": 0.988,
+    "porcentaje_exito": 65.86666666666666,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.034
+      }
+    }
+  },
+  {
+    "farmaco": "3,4-methylenedioxymethamphetamine",
+    "puntuacion": 0.988,
+    "porcentaje_exito": 65.86666666666666,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5,
+        "p_value": 0.025
+      }
+    }
+  },
+  {
+    "farmaco": "methamphetamine",
+    "puntuacion": 0.988,
+    "porcentaje_exito": 65.86666666666666,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.3333333333333333,
+        "p_value": 0.035
+      }
+    }
+  },
+  {
+    "farmaco": "primaquine",
+    "puntuacion": 0.988,
+    "porcentaje_exito": 65.86666666666666,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5,
+        "p_value": 0.019
+      }
+    }
+  },
+  {
+    "farmaco": "Selective serotonin reuptake inhibitors",
+    "puntuacion": 0.988,
+    "porcentaje_exito": 65.86666666666666,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.03
+      }
+    }
+  },
+  {
+    "farmaco": "citalopram",
+    "puntuacion": 0.9867957746478873,
+    "porcentaje_exito": 65.78638497652581,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.24324324324324326,
+        "p_value": 0.391
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.45454545454545453,
+        "p_value": 0.031
+      }
+    }
+  },
+  {
+    "farmaco": "pantoprazole",
+    "puntuacion": 0.964,
+    "porcentaje_exito": 64.26666666666667,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.6363636363636364,
+        "p_value": 0.05
+      }
+    }
+  },
+  {
+    "farmaco": "famotidine",
+    "puntuacion": 0.964,
+    "porcentaje_exito": 64.26666666666667,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.6666666666666666,
+        "p_value": 0.05
+      }
+    }
+  },
+  {
+    "farmaco": "venlafaxine",
+    "puntuacion": 0.9636842105263157,
+    "porcentaje_exito": 64.24561403508771,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.3333333333333333,
+        "p_value": 0.391
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.3,
+        "p_value": 0.001
+      }
+    }
+  },
+  {
+    "farmaco": "valproic acid",
+    "puntuacion": 0.9624999999999999,
+    "porcentaje_exito": 64.16666666666666,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.6,
+        "p_value": 0.88
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.067
+      }
+    }
+  },
+  {
+    "farmaco": "methadone",
+    "puntuacion": 0.9550000000000001,
+    "porcentaje_exito": 63.66666666666667,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.4,
+        "p_value": 0.053
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.2857142857142857,
+        "p_value": 0.314
+      }
+    }
+  },
+  {
+    "farmaco": "atomoxetine",
+    "puntuacion": 0.9357142857142857,
+    "porcentaje_exito": 62.38095238095238,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5,
+        "p_value": 0.78
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.2,
+        "p_value": 5e-05
+      }
+    }
+  },
+  {
+    "farmaco": "clomipramine",
+    "puntuacion": 0.9133962264150943,
+    "porcentaje_exito": 60.893081761006286,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.42857142857142855,
+        "p_value": 0.391
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.15384615384615385,
+        "p_value": 0.006
+      }
+    }
+  },
+  {
+    "farmaco": "paroxetine",
+    "puntuacion": 0.9122222222222222,
+    "porcentaje_exito": 60.81481481481481,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5,
+        "p_value": 0.391
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.21052631578947367,
+        "p_value": 0.037
+      }
+    }
+  },
+  {
+    "farmaco": "fluoxetine",
+    "puntuacion": 0.9039999999999999,
+    "porcentaje_exito": 60.26666666666666,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5,
+        "p_value": 0.391
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.21428571428571427,
+        "p_value": 0.05
+      }
+    }
+  },
+  {
+    "farmaco": "mirtazapine",
+    "puntuacion": 0.8757142857142857,
+    "porcentaje_exito": 58.38095238095238,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5,
+        "p_value": 0.391
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.08333333333333333,
+        "p_value": 0.05
+      }
+    }
+  },
+  {
+    "farmaco": "duloxetine",
+    "puntuacion": 0.85,
+    "porcentaje_exito": 56.666666666666664,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5,
+        "p_value": 0.391
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.6,
+        "p_value": 0.743
+      }
+    }
+  },
+  {
+    "farmaco": "fluvoxamine",
+    "puntuacion": 0.85,
+    "porcentaje_exito": 56.666666666666664,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5,
+        "p_value": 0.391
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5,
+        "p_value": 0.5
+      }
+    }
+  },
+  {
+    "farmaco": "sertraline",
+    "puntuacion": 0.85,
+    "porcentaje_exito": 56.666666666666664,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.14285714285714285,
+        "p_value": 0.391
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5,
+        "p_value": 0.5
+      }
+    }
+  },
+  {
+    "farmaco": "propranolol",
+    "puntuacion": 0.85,
+    "porcentaje_exito": 56.666666666666664,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.829
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.288
+      }
+    }
+  },
+  {
+    "farmaco": "topiramate",
+    "puntuacion": 0.85,
+    "porcentaje_exito": 56.666666666666664,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.829
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.288
+      }
+    }
+  },
+  {
+    "farmaco": "omeprazole",
+    "puntuacion": 0.82,
+    "porcentaje_exito": 54.666666666666664,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.6666666666666666,
+        "p_value": 0.569
+      }
+    }
+  },
+  {
+    "farmaco": "esomeprazole",
+    "puntuacion": 0.82,
+    "porcentaje_exito": 54.666666666666664,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.8421052631578947,
+        "p_value": 0.39
+      }
+    }
+  },
+  {
+    "farmaco": "acenocoumarol",
+    "puntuacion": 0.82,
+    "porcentaje_exito": 54.666666666666664,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.61
+      }
+    }
+  },
+  {
+    "farmaco": "cilostazol",
+    "puntuacion": 0.82,
+    "porcentaje_exito": 54.666666666666664,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.4,
+        "p_value": 0.167
+      }
+    }
+  },
+  {
+    "farmaco": "colchicine",
+    "puntuacion": 0.82,
+    "porcentaje_exito": 54.666666666666664,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.5
+      }
+    }
+  },
+  {
+    "farmaco": "amphetamine",
+    "puntuacion": 0.82,
+    "porcentaje_exito": 54.666666666666664,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.25,
+        "p_value": 0.5
+      }
+    }
+  },
+  {
+    "farmaco": "maprotiline",
+    "puntuacion": 0.82,
+    "porcentaje_exito": 54.666666666666664,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.3333333333333333,
+        "p_value": 0.15
+      }
+    }
+  },
+  {
+    "farmaco": "opipramol",
+    "puntuacion": 0.82,
+    "porcentaje_exito": 54.666666666666664,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.3333333333333333,
+        "p_value": 0.15
+      }
+    }
+  },
+  {
+    "farmaco": "hydroxychloroquine",
+    "puntuacion": 0.82,
+    "porcentaje_exito": 54.666666666666664,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.54
+      }
+    }
+  },
+  {
+    "farmaco": "fluvastatin",
+    "puntuacion": 0.82,
+    "porcentaje_exito": 54.666666666666664,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.5
+      }
+    }
+  },
+  {
+    "farmaco": "acetaminophen",
+    "puntuacion": 0.82,
+    "porcentaje_exito": 54.666666666666664,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.5
+      }
+    }
+  },
+  {
+    "farmaco": "ibuprofen",
+    "puntuacion": 0.82,
+    "porcentaje_exito": 54.666666666666664,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.5
+      }
+    }
+  },
+  {
+    "farmaco": "pregabalin",
+    "puntuacion": 0.82,
+    "porcentaje_exito": 54.666666666666664,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.5
+      }
+    }
+  },
+  {
+    "farmaco": "tafenoquine",
+    "puntuacion": 0.82,
+    "porcentaje_exito": 54.666666666666664,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.57
+      }
+    }
+  },
+  {
+    "farmaco": "nortriptyline",
+    "puntuacion": 0.778125,
+    "porcentaje_exito": 51.87499999999999,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 5e-05
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.14285714285714285,
+        "p_value": 0.0005
+      }
+    }
+  },
+  {
+    "farmaco": "doxepin",
+    "puntuacion": 0.7625,
+    "porcentaje_exito": 50.83333333333333,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.009
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.2,
+        "p_value": 0.0005
+      }
+    }
+  },
+  {
+    "farmaco": "aspirin",
+    "puntuacion": 0.74,
+    "porcentaje_exito": 49.333333333333336,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.8333333333333334,
+        "p_value": 0.007
+      }
+    }
+  },
+  {
+    "farmaco": "clopidogrel",
+    "puntuacion": 0.71,
+    "porcentaje_exito": 47.333333333333336,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5685279187817259,
+        "p_value": 0.025
+      }
+    }
+  },
+  {
+    "farmaco": "atorvastatin",
+    "puntuacion": 0.6799999999999999,
+    "porcentaje_exito": 45.33333333333333,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5,
+        "p_value": 0.078
+      }
+    }
+  },
+  {
+    "farmaco": "4-hydroxytamoxifen",
+    "puntuacion": 0.5599999999999999,
+    "porcentaje_exito": 37.33333333333333,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.0005
+      },
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.009
+      }
+    }
+  },
+  {
+    "farmaco": "trimipramine",
+    "puntuacion": 0.5525,
+    "porcentaje_exito": 36.833333333333336,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.01
+      },
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.0005
+      }
+    }
+  },
+  {
+    "farmaco": "antidepressants",
+    "puntuacion": 0.5449999999999999,
+    "porcentaje_exito": 36.33333333333333,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.005
+      },
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.001
+      }
+    }
+  },
+  {
+    "farmaco": "mephenytoin",
+    "puntuacion": 0.53,
+    "porcentaje_exito": 35.333333333333336,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.0001
+      }
+    }
+  },
+  {
+    "farmaco": "proguanil",
+    "puntuacion": 0.53,
+    "porcentaje_exito": 35.333333333333336,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.0005
+      }
+    }
+  },
+  {
+    "farmaco": "dextromethorphan",
+    "puntuacion": 0.53,
+    "porcentaje_exito": 35.333333333333336,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.0005
+      }
+    }
+  },
+  {
+    "farmaco": "vortioxetine",
+    "puntuacion": 0.53,
+    "porcentaje_exito": 35.333333333333336,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.0005
+      }
+    }
+  },
+  {
+    "farmaco": "tolperisone",
+    "puntuacion": 0.53,
+    "porcentaje_exito": 35.333333333333336,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.0268
+      },
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.0235
+      }
+    }
+  },
+  {
+    "farmaco": "quetiapine",
+    "puntuacion": 0.53,
+    "porcentaje_exito": 35.333333333333336,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.025
+      },
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.01
+      }
+    }
+  },
+  {
+    "farmaco": "dipyrone",
+    "puntuacion": 0.506,
+    "porcentaje_exito": 33.733333333333334,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.001
+      }
+    }
+  },
+  {
+    "farmaco": "ambrisentan",
+    "puntuacion": 0.506,
+    "porcentaje_exito": 33.733333333333334,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.005
+      }
+    }
+  },
+  {
+    "farmaco": "mephedrone",
+    "puntuacion": 0.506,
+    "porcentaje_exito": 33.733333333333334,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.001
+      }
+    }
+  },
+  {
+    "farmaco": "galantamine",
+    "puntuacion": 0.506,
+    "porcentaje_exito": 33.733333333333334,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.004
+      }
+    }
+  },
+  {
+    "farmaco": "aripiprazole",
+    "puntuacion": 0.506,
+    "porcentaje_exito": 33.733333333333334,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.005
+      }
+    }
+  },
+  {
+    "farmaco": "zuclopenthixol",
+    "puntuacion": 0.506,
+    "porcentaje_exito": 33.733333333333334,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.005
+      }
+    }
+  },
+  {
+    "farmaco": "flecainide",
+    "puntuacion": 0.506,
+    "porcentaje_exito": 33.733333333333334,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.001
+      }
+    }
+  },
+  {
+    "farmaco": "metoprolol",
+    "puntuacion": 0.5,
+    "porcentaje_exito": 33.33333333333333,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.42857142857142855,
+        "p_value": 0.75
+      }
+    }
+  },
+  {
+    "farmaco": "N-desmethyltamoxifen",
+    "puntuacion": 0.5,
+    "porcentaje_exito": 33.33333333333333,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.5
+      },
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.0005
+      }
+    }
+  },
+  {
+    "farmaco": "clozapine",
+    "puntuacion": 0.495,
+    "porcentaje_exito": 33.0,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 0.5,
+        "p_value": 0.93
+      },
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.01
+      }
+    }
+  },
+  {
+    "farmaco": "praziquantel",
+    "puntuacion": 0.494,
+    "porcentaje_exito": 32.93333333333333,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.01
+      }
+    }
+  },
+  {
+    "farmaco": "dexlansoprazole",
+    "puntuacion": 0.494,
+    "porcentaje_exito": 32.93333333333333,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.025
+      }
+    }
+  },
+  {
+    "farmaco": "n-desmethylclozapine",
+    "puntuacion": 0.494,
+    "porcentaje_exito": 32.93333333333333,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.013
+      }
+    }
+  },
+  {
+    "farmaco": "icotinib",
+    "puntuacion": 0.494,
+    "porcentaje_exito": 32.93333333333333,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.0235
+      }
+    }
+  },
+  {
+    "farmaco": "carisoprodol",
+    "puntuacion": 0.494,
+    "porcentaje_exito": 32.93333333333333,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.025
+      }
+    }
+  },
+  {
+    "farmaco": "efavirenz",
+    "puntuacion": 0.494,
+    "porcentaje_exito": 32.93333333333333,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.025
+      }
+    }
+  },
+  {
+    "farmaco": "antipsychotics",
+    "puntuacion": 0.494,
+    "porcentaje_exito": 32.93333333333333,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.024
+      }
+    }
+  },
+  {
+    "farmaco": "ketoprofen",
+    "puntuacion": 0.494,
+    "porcentaje_exito": 32.93333333333333,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.035
+      }
+    }
+  },
+  {
+    "farmaco": "amisulpride",
+    "puntuacion": 0.494,
+    "porcentaje_exito": 32.93333333333333,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.01
+      }
+    }
+  },
+  {
+    "farmaco": "haloperidol",
+    "puntuacion": 0.494,
+    "porcentaje_exito": 32.93333333333333,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.01
+      }
+    }
+  },
+  {
+    "farmaco": "ziprasidone",
+    "puntuacion": 0.494,
+    "porcentaje_exito": 32.93333333333333,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.01
+      }
+    }
+  },
+  {
+    "farmaco": "hydrocodone",
+    "puntuacion": 0.494,
+    "porcentaje_exito": 32.93333333333333,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.02
+      }
+    }
+  },
+  {
+    "farmaco": "timolol",
+    "puntuacion": 0.494,
+    "porcentaje_exito": 32.93333333333333,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.025
+      }
+    }
+  },
+  {
+    "farmaco": "oxymorphone",
+    "puntuacion": 0.494,
+    "porcentaje_exito": 32.93333333333333,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.0162
+      }
+    }
+  },
+  {
+    "farmaco": "gefitinib",
+    "puntuacion": 0.494,
+    "porcentaje_exito": 32.93333333333333,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.025
+      }
+    }
+  },
+  {
+    "farmaco": "endoxifen",
+    "puntuacion": 0.485,
+    "porcentaje_exito": 32.33333333333333,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.5
+      },
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.005
+      }
+    }
+  },
+  {
+    "farmaco": "progesterone",
+    "puntuacion": 0.482,
+    "porcentaje_exito": 32.13333333333333,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.05
+      }
+    }
+  },
+  {
+    "farmaco": "tolterodine",
+    "puntuacion": 0.482,
+    "porcentaje_exito": 32.13333333333333,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.05
+      }
+    }
+  },
+  {
+    "farmaco": "carvedilol",
+    "puntuacion": 0.4775,
+    "porcentaje_exito": 31.83333333333333,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.5
+      },
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.02
+      }
+    }
+  },
+  {
+    "farmaco": "desipramine",
+    "puntuacion": 0.4775,
+    "porcentaje_exito": 31.83333333333333,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.18
+      },
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.02
+      }
+    }
+  },
+  {
+    "farmaco": "phenytoin",
+    "puntuacion": 0.39999999999999997,
+    "porcentaje_exito": 26.666666666666668,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 0.8181818181818182,
+        "p_value": 0.0005
+      }
+    }
+  },
+  {
+    "farmaco": "labetalol",
+    "puntuacion": 0.355,
+    "porcentaje_exito": 23.666666666666668,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.025
+      }
+    }
+  },
+  {
+    "farmaco": "rosuvastatin",
+    "puntuacion": 0.355,
+    "porcentaje_exito": 23.666666666666668,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.035
+      }
+    }
+  }
+]

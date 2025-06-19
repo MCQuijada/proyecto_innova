@@ -1,0 +1,99 @@
+[
+  {
+    "farmaco": "carvedilol",
+    "puntuacion": 0.4775,
+    "porcentaje_exito": 31.83333333333333,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.5
+      },
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.02
+      }
+    }
+  },
+  {
+    "farmaco": "desipramine",
+    "puntuacion": 0.4775,
+    "porcentaje_exito": 31.83333333333333,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.18
+      },
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.02
+      }
+    }
+  },
+  {
+    "farmaco": "phenytoin",
+    "puntuacion": 0.39999999999999997,
+    "porcentaje_exito": 26.666666666666668,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 0.8181818181818182,
+        "p_value": 0.0005
+      }
+    }
+  },
+  {
+    "farmaco": "labetalol",
+    "puntuacion": 0.355,
+    "porcentaje_exito": 23.666666666666668,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.025
+      }
+    }
+  },
+  {
+    "farmaco": "rosuvastatin",
+    "puntuacion": 0.355,
+    "porcentaje_exito": 23.666666666666668,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.035
+      }
+    }
+  }
+]

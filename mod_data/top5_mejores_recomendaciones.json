@@ -1,0 +1,103 @@
+[
+  {
+    "farmaco": "escitalopram",
+    "puntuacion": 1.1121052631578947,
+    "porcentaje_exito": 74.14035087719299,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.2916666666666667,
+        "p_value": 0.0005
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5,
+        "p_value": 0.004
+      }
+    }
+  },
+  {
+    "farmaco": "cyclophosphamide",
+    "puntuacion": 1.06,
+    "porcentaje_exito": 70.66666666666667,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5,
+        "p_value": 0.0005
+      }
+    }
+  },
+  {
+    "farmaco": "clobazam",
+    "puntuacion": 1.06,
+    "porcentaje_exito": 70.66666666666667,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.23076923076923078,
+        "p_value": 5e-05
+      }
+    }
+  },
+  {
+    "farmaco": "tamoxifen",
+    "puntuacion": 1.06,
+    "porcentaje_exito": 70.66666666666667,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.42857142857142855,
+        "p_value": 0.03
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.8115942028985508,
+        "p_value": 0.016
+      }
+    }
+  },
+  {
+    "farmaco": "antineoplastic agents",
+    "puntuacion": 1.0439024390243903,
+    "porcentaje_exito": 69.59349593495935,
+    "presente_en": [
+      "CYP2C19",
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.052
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.8636363636363636,
+        "p_value": 0.016
+      }
+    }
+  }
+]
