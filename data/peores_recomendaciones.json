@@ -1,0 +1,82 @@
+[
+  {
+    "farmaco": "brivaracetam",
+    "puntuacion": 0.82,
+    "porcentaje_exito": 20.5,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Negativa",
+        "fenotipo": "Metabolizador Lento",
+        "confianza": 1.0,
+        "p_value": 0.5
+      }
+    }
+  },
+  {
+    "farmaco": "methylphenobarbital",
+    "puntuacion": 0.82,
+    "porcentaje_exito": 20.5,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Negativa",
+        "fenotipo": "Metabolizador Lento",
+        "confianza": 1.0,
+        "p_value": 0.5
+      }
+    }
+  },
+  {
+    "farmaco": "axitinib",
+    "puntuacion": 0.82,
+    "porcentaje_exito": 20.5,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Negativa",
+        "fenotipo": "Metabolizador Lento",
+        "confianza": 1.0,
+        "p_value": 0.37
+      }
+    }
+  },
+  {
+    "farmaco": "rilpivirine",
+    "puntuacion": 0.82,
+    "porcentaje_exito": 20.5,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Negativa",
+        "fenotipo": "Metabolizador Lento",
+        "confianza": 1.0,
+        "p_value": 0.5
+      }
+    }
+  },
+  {
+    "farmaco": "AR-C124910XX",
+    "puntuacion": 0.82,
+    "porcentaje_exito": 20.5,
+    "presente_en": [
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Negativa",
+        "fenotipo": "Metabolizador Lento",
+        "confianza": 1.0,
+        "p_value": 0.5
+      }
+    }
+  }
+]
