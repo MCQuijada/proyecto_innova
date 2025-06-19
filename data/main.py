@@ -171,6 +171,32 @@ def guardar_resultados_json(nombre_archivo, datos):
     with open(nombre_archivo, 'w', encoding='utf-8') as f:
         json.dump(datos, f, ensure_ascii=False, indent=2)
 
+def unificar_recomendaciones(recomendaciones):
+    """Elimina duplicados de fármacos, dejando solo la mejor entrada por fármaco y unificando detalles de genes."""
+    unificados = {}
+    for rec in recomendaciones:
+        nombre = rec['farmaco']
+        if nombre not in unificados:
+            unificados[nombre] = rec.copy()
+        else:
+            # Si ya existe, comparar puntuación y unificar detalles
+            if rec['puntuacion'] > unificados[nombre]['puntuacion']:
+                base = rec.copy()
+                # Unificar detalles de genes
+                for gen, det in unificados[nombre]['detalles'].items():
+                    if gen not in base['detalles']:
+                        base['detalles'][gen] = det
+                base['presente_en'] = list(set(base['presente_en']) | set(unificados[nombre]['presente_en']))
+                unificados[nombre] = base
+            else:
+                # Unificar detalles de genes
+                for gen, det in rec['detalles'].items():
+                    if gen not in unificados[nombre]['detalles']:
+                        unificados[nombre]['detalles'][gen] = det
+                unificados[nombre]['presente_en'] = list(set(unificados[nombre]['presente_en']) | set(rec['presente_en']))
+    # Devolver lista ordenada por puntuación descendente
+    return sorted(unificados.values(), key=lambda x: x['puntuacion'], reverse=True)
+
 def main():
     """
     Función principal que ejecuta el flujo completo del programa
@@ -221,11 +247,20 @@ def main():
     genotipo_c19 = obtener_genotipo('CYP2C19')
     print("\n=== GENERANDO RECOMENDACIONES ===")
     mejores, peores = recomendador.recomendar_farmacos(genotipo_c19, genotipo_d6)
-    # Mostrar y guardar resultados
+    # Mostrar y guardar resultados generales
     mejores_json = mostrar_recomendaciones(mejores, "=== MEJORES RECOMENDACIONES ===")
     peores_json = mostrar_recomendaciones(peores, "=== PEORES RECOMENDACIONES ===")
+    # Unificar recomendaciones para eliminar duplicados
+    mejores_json = unificar_recomendaciones(mejores_json)
+    peores_json = unificar_recomendaciones(peores_json)
+    # Guardar y mostrar resultados como antes
     guardar_resultados_json("mejores_recomendaciones.json", mejores_json)
     guardar_resultados_json("peores_recomendaciones.json", peores_json)
+    guardar_resultados_json("recomendaciones.json", mejores_json)
+    top5_mejores = mejores_json[:5]
+    top5_peores = mejores_json[-5:]
+    guardar_resultados_json("top5_mejores_recomendaciones.json", top5_mejores)
+    guardar_resultados_json("top5_peores_recomendaciones.json", top5_peores)
 
 if __name__ == "__main__":
     main() 

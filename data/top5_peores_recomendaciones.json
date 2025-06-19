@@ -1,0 +1,90 @@
+[
+  {
+    "farmaco": "simvastatin",
+    "puntuacion": 0.494,
+    "porcentaje_exito": 32.93333333333333,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.02
+      }
+    }
+  },
+  {
+    "farmaco": "anthracyclines and related substances",
+    "puntuacion": 0.494,
+    "porcentaje_exito": 32.93333333333333,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.034
+      }
+    }
+  },
+  {
+    "farmaco": "Selective serotonin reuptake inhibitors",
+    "puntuacion": 0.494,
+    "porcentaje_exito": 32.93333333333333,
+    "presente_en": [
+      "CYP2D6"
+    ],
+    "detalles": {
+      "CYP2D6": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.03
+      }
+    }
+  },
+  {
+    "farmaco": "risperidone",
+    "puntuacion": 0.47342857142857137,
+    "porcentaje_exito": 31.561904761904756,
+    "presente_en": [
+      "CYP2D6",
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Negativa",
+        "fenotipo": "Metabolizador Lento",
+        "confianza": 1.0,
+        "p_value": 0.008
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.5217391304347826,
+        "p_value": 0.049
+      }
+    }
+  },
+  {
+    "farmaco": "atorvastatin",
+    "puntuacion": 0.33999999999999997,
+    "porcentaje_exito": 22.666666666666664,
+    "presente_en": [
+      "CYP2D6",
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Intermedia",
+        "fenotipo": "Metabolizador Intermedio",
+        "confianza": 1.0,
+        "p_value": 0.078
+      }
+    }
+  }
+]

@@ -27,7 +27,7 @@ class RecomendadorIA:
         }
         
         # Puntuación máxima para cálculo de porcentaje
-        self.PUNTUACION_MAXIMA = 4.0
+        self.PUNTUACION_MAXIMA = 1.5
         
         # Cargar o entrenar el modelo
         if os.path.exists(modelo_path):
@@ -201,28 +201,23 @@ class RecomendadorIA:
             print(f"Error en predicción de IA para {farmaco}: {str(e)}")
             return detalles_gen.get('puntuacion_base', 0.0)
     
-    def recomendar_farmacos(self, genotipo_c19: str, genotipo_d6: str, 
-                          top_n: int = 5) -> Tuple[List[Dict], List[Dict]]:
+    def recomendar_farmacos(self, genotipo_c19: str, genotipo_d6: str) -> Tuple[List[Dict], List[Dict]]:
         """
         Genera recomendaciones combinando el sistema basado en reglas con la IA.
         
         Args:
             genotipo_c19: Genotipo de CYP2C19
             genotipo_d6: Genotipo de CYP2D6
-            top_n: Número de recomendaciones a retornar
-            
         Returns:
             tuple: (mejores_recomendaciones, peores_recomendaciones)
         """
         # Obtener recomendaciones del sistema simple
         mejores_simple, peores_simple = self.recomendador_simple.recomendar_farmacos(
-            genotipo_c19, genotipo_d6, top_n
+            genotipo_c19, genotipo_d6, 10000
         )
-        
         # Combinar predicciones
         recomendaciones_combinadas = []
         for rec in mejores_simple + peores_simple:
-            # Obtener predicción de la IA para cada gen
             predicciones_ia = {}
             for gen in ['CYP2C19', 'CYP2D6']:
                 if rec['presente_en'][gen]:
@@ -231,30 +226,22 @@ class RecomendadorIA:
                         genotipo_c19, genotipo_d6, rec['farmaco'], predicciones
                     )
                     predicciones_ia[gen] = puntuacion_ia
-            
-            # Calcular puntuación combinada (70% IA, 30% reglas)
             if predicciones_ia:
                 puntuacion_ia = sum(predicciones_ia.values()) / len(predicciones_ia)
                 puntuacion_combinada = 0.7 * puntuacion_ia + 0.3 * rec['puntuacion']
             else:
                 puntuacion_combinada = rec['puntuacion']
-            
-            # Crear recomendación combinada
             rec_combinada = rec.copy()
             rec_combinada['puntuacion'] = puntuacion_combinada
             rec_combinada['porcentaje_exito'] = (puntuacion_combinada / self.PUNTUACION_MAXIMA) * 100
             rec_combinada['predicciones_ia'] = predicciones_ia
             recomendaciones_combinadas.append(rec_combinada)
-        
-        # Ordenar recomendaciones
         recomendaciones_ordenadas = sorted(
             recomendaciones_combinadas,
             key=lambda x: x['puntuacion'],
             reverse=True
         )
-        
-        # Separar mejores y peores
-        mejores = recomendaciones_ordenadas[:top_n]
-        peores = recomendaciones_ordenadas[-top_n:]
-        
+        # Ahora devolver todos como mejores y peores (mejores orden descendente, peores ascendente)
+        mejores = recomendaciones_ordenadas
+        peores = list(reversed(recomendaciones_ordenadas))
         return mejores, peores 

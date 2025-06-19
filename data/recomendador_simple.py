@@ -16,9 +16,9 @@ class RecomendadorSimple:
         
         # Definir puntuaciones base según evaluación
         self.PUNTUACIONES_BASE = {
-            'Positiva': 3.0,
-            'Intermedia': 2.0,
-            'Negativa': 1.0
+            'Positiva': 1.0,
+            'Intermedia': 0.5,
+            'Negativa': 0.0
         }
         
         # Definir factores de p-value
@@ -35,7 +35,7 @@ class RecomendadorSimple:
         self.FACTOR_DOS_GENES = 1.0  # Factor cuando el fármaco está en ambos genes
         
         # Puntuación máxima para cálculo de porcentaje
-        self.PUNTUACION_MAXIMA = 3.0
+        self.PUNTUACION_MAXIMA = 1.5
 
     def _obtener_p_value(self, farmaco: str, gen: str) -> float:
         """
@@ -114,40 +114,43 @@ class RecomendadorSimple:
 
     def _obtener_evaluacion(self, farmaco: str, gen: str, genotipo: str) -> Tuple[str, float]:
         """
-        Obtiene la evaluación y confianza para un fármaco, gen y genotipo específicos.
-        
-        Args:
-            farmaco: Nombre del fármaco
-            gen: Gen a analizar ('CYP2C19' o 'CYP2D6')
-            genotipo: Genotipo a evaluar
-            
-        Returns:
-            tuple: (evaluacion, confianza)
+        Obtiene la mejor evaluación y confianza para un fármaco, gen y genotipo específicos.
+        Si hay varias filas para la misma combinación, se queda con la mejor evaluación (Positiva > Intermedia > Negativa)
+        para cada categoría (Metabolism/PK, Efficacy, Dosage, Toxicity, Other).
         """
         try:
-            # Seleccionar el conjunto de datos correcto
             datos = self.datos_c19 if gen == 'CYP2C19' else self.datos_d6
-            
-            # Filtrar por fármaco y genotipo
             mascara_farmaco = datos['drugs'].str.contains(farmaco, case=False, na=False)
             mascara_genotipo = datos['genotipo_expandido'] == genotipo
             datos_filtrados = datos[mascara_farmaco & mascara_genotipo]
-            
             if datos_filtrados.empty:
                 return None, 0.0
-            
-            # Obtener la evaluación más común
+            # Definir prioridad de evaluaciones
+            prioridad_eval = {'Positiva': 2, 'Intermedia': 1, 'Negativa': 0}
+            # Si hay columna de categoría, agrupar por ella y quedarse con la mejor evaluación
+            if 'phenotype_categories' in datos_filtrados.columns:
+                mejores = []
+                for cat, grupo in datos_filtrados.groupby('phenotype_categories'):
+                    evaluaciones = grupo['Evaluacion'].dropna()
+                    if not evaluaciones.empty:
+                        # Elegir la mejor evaluación según prioridad
+                        mejor_eval = sorted(evaluaciones, key=lambda x: prioridad_eval.get(x, -1), reverse=True)[0]
+                        mejores.append(mejor_eval)
+                if not mejores:
+                    return None, 0.0
+                # De todas las mejores por categoría, elegir la mejor global
+                mejor_global = sorted(mejores, key=lambda x: prioridad_eval.get(x, -1), reverse=True)[0]
+                # Calcular confianza como la proporción de esa evaluación entre todas las filas
+                total = len(datos_filtrados)
+                confianza = (datos_filtrados['Evaluacion'] == mejor_global).sum() / total
+                return mejor_global, confianza
+            # Si no hay columna de categoría, usar la mejor evaluación global
             evaluaciones = datos_filtrados['Evaluacion'].dropna()
             if evaluaciones.empty:
                 return None, 0.0
-                
-            evaluacion = evaluaciones.mode().iloc[0]
-            
-            # Calcular confianza basada en la frecuencia de la evaluación
-            confianza = len(evaluaciones[evaluaciones == evaluacion]) / len(evaluaciones)
-            
-            return evaluacion, confianza
-            
+            mejor_eval = sorted(evaluaciones, key=lambda x: prioridad_eval.get(x, -1), reverse=True)[0]
+            confianza = (evaluaciones == mejor_eval).sum() / len(evaluaciones)
+            return mejor_eval, confianza
         except Exception as e:
             print(f"Error al obtener evaluación para {farmaco} en {gen}: {str(e)}")
             return None, 0.0
@@ -190,45 +193,34 @@ class RecomendadorSimple:
         
         return puntuacion_final, confianza, detalles
 
-    def recomendar_farmacos(self, genotipo_c19: str, genotipo_d6: str, top_n: int = 5) -> List[List[Dict]]:
+    def recomendar_farmacos(self, genotipo_c19: str, genotipo_d6: str, top_n: int = 10000) -> List[List[Dict]]:
         """
         Genera recomendaciones de fármacos basadas en los genotipos proporcionados.
         
         Args:
             genotipo_c19: Genotipo de CYP2C19
             genotipo_d6: Genotipo de CYP2D6
-            top_n: Número de recomendaciones a retornar
-            
         Returns:
-            Lista con dos sublistas: [mejores, peores] (cada una con top_n recomendaciones)
+            Lista con dos sublistas: [mejores, peores] (todas las recomendaciones ordenadas)
         """
         # Obtener lista única de fármacos
         todos_farmacos = pd.concat([
             self.datos_c19['drugs'],
             self.datos_d6['drugs']
         ]).str.split('; ').explode().dropna().unique()
-        
         recomendaciones = []
         for farmaco in todos_farmacos:
             if not isinstance(farmaco, str) or not farmaco.strip():
                 continue
-            
-            # Verificar presencia en genes
             presente_c19 = farmaco in '; '.join(self.datos_c19['drugs'].dropna())
             presente_d6 = farmaco in '; '.join(self.datos_d6['drugs'].dropna())
-            
-            # Calcular puntuaciones por gen
             puntuacion_c19, confianza_c19, detalles_c19 = self._calcular_puntuacion_gen(
                 farmaco, 'CYP2C19', genotipo_c19
             ) if presente_c19 else (0.0, 0.0, {})
-            
             puntuacion_d6, confianza_d6, detalles_d6 = self._calcular_puntuacion_gen(
                 farmaco, 'CYP2D6', genotipo_d6
             ) if presente_d6 else (0.0, 0.0, {})
-            
-            # Calcular puntuación final
             if presente_c19 and presente_d6:
-                # Ponderar por confianza
                 peso_total = confianza_c19 + confianza_d6
                 if peso_total > 0:
                     puntuacion = (puntuacion_c19 * confianza_c19 + puntuacion_d6 * confianza_d6) / peso_total
@@ -245,11 +237,7 @@ class RecomendadorSimple:
             else:
                 puntuacion = 0.0
                 factor_ajuste = 0.0
-            
-            # Calcular porcentaje de éxito
             porcentaje_exito = (puntuacion / self.PUNTUACION_MAXIMA) * 100 if puntuacion > 0 else 0.0
-            
-            # Solo incluir recomendaciones con puntuación válida
             if puntuacion > 0:
                 recomendaciones.append({
                     'farmaco': farmaco,
@@ -269,18 +257,10 @@ class RecomendadorSimple:
                     },
                     'factor_ajuste': factor_ajuste
                 })
-        
-        # Ordenar recomendaciones por puntuación
         recomendaciones_ordenadas = sorted(recomendaciones, key=lambda x: x['puntuacion'], reverse=True)
-        
-        # Filtrar recomendaciones con puntuación muy baja
         recomendaciones_filtradas = [r for r in recomendaciones_ordenadas if r['puntuacion'] > 0.3]
-        
-        # Si no hay suficientes recomendaciones válidas, usar las originales
-        if len(recomendaciones_filtradas) < top_n:
+        if len(recomendaciones_filtradas) < 1:
             recomendaciones_filtradas = recomendaciones_ordenadas
-        
-        mejores = recomendaciones_filtradas[:top_n]
-        peores = recomendaciones_ordenadas[-top_n:]
-        
+        mejores = recomendaciones_filtradas
+        peores = list(reversed(recomendaciones_filtradas))
         return [mejores, peores] 

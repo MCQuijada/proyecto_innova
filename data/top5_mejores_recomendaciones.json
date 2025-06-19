@@ -1,0 +1,117 @@
+[
+  {
+    "farmaco": "nortriptyline",
+    "puntuacion": 1.15,
+    "porcentaje_exito": 76.66666666666666,
+    "presente_en": [
+      "CYP2D6",
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 5e-05
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.6428571428571429,
+        "p_value": 0.0005
+      }
+    }
+  },
+  {
+    "farmaco": "escitalopram",
+    "puntuacion": 1.1298076923076923,
+    "porcentaje_exito": 75.32051282051282,
+    "presente_en": [
+      "CYP2D6",
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.6571428571428571,
+        "p_value": 0.0005
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.3333333333333333,
+        "p_value": 0.004
+      }
+    }
+  },
+  {
+    "farmaco": "4-hydroxytamoxifen",
+    "puntuacion": 1.1199999999999999,
+    "porcentaje_exito": 74.66666666666666,
+    "presente_en": [
+      "CYP2D6",
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.0005
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.009
+      }
+    }
+  },
+  {
+    "farmaco": "trimipramine",
+    "puntuacion": 1.1,
+    "porcentaje_exito": 73.33333333333334,
+    "presente_en": [
+      "CYP2D6",
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.01
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.8,
+        "p_value": 0.0005
+      }
+    }
+  },
+  {
+    "farmaco": "doxepin",
+    "puntuacion": 1.1,
+    "porcentaje_exito": 73.33333333333334,
+    "presente_en": [
+      "CYP2D6",
+      "CYP2C19"
+    ],
+    "detalles": {
+      "CYP2C19": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 1.0,
+        "p_value": 0.009
+      },
+      "CYP2D6": {
+        "evaluacion": "Positiva",
+        "fenotipo": "Metabolizador Normal",
+        "confianza": 0.2,
+        "p_value": 0.0005
+      }
+    }
+  }
+]
